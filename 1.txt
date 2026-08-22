@@ -1,0 +1,44 @@
+{
+  "urls": [
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "饭太硬·主"
+    },
+    {
+      "url": "http://www.饭太硬.cc/tv",
+      "name": "饭太硬·副"
+    },
+    {
+      "url": "http://www.饭太硬.art/tv",
+      "name": "饭太硬·备"
+    },
+    {
+      "url": "https://www.xn--rgv465a.top/live/diy/1.txt",
+      "name": "沁园春·雪"
+    },
+        {
+      "url": "https://cdn.jsdelivr.net/gh/tiantang99/tv/live.txt",
+      "name": "沁园春·雪·副"
+    },
+    {
+      "url": "https://19803.kstore.space/live.txt",
+      "name": "沁园春·雪·备"
+    },
+    {
+      "url": "https://www.iyouhun.com/tv/zb",
+      "name": "游魂专享源"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
+      "name": "建文咕咪源"
+    },
+    {
+      "url": "https://develop202.github.io/migu_video/interface.txt",
+      "name": "蒂破咪咕源"
+    },
+    {
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/result.m3u",
+      "name": "国俊数字源"
+    }
+  ]
+}
