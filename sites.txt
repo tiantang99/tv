@@ -291,7 +291,7 @@
     {
       "name": "沁园春·雪",
       "type": 0,
-      "url": "https://19803.kstore.space/live.txt",
+      "url": "https://cdn.jsdelivr.net/gh/tiantang99/tv/live.txt",
       "playerType": 2
     },
     {
