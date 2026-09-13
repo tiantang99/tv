@@ -306,200 +306,170 @@ http://180.165.8.71:19999/[164]云南卫视HD?cors
 http://58.217.52.46:9900/卫视/云南卫视?cors
 
 
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊海峡三地",TVB翡翠台(港)
-http://r.jdshipin.com/qrfbg
-http://r.jdshipin.com/62WM7
-http://r.jdshipin.com/GeWKr
 http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠.png" group-title="🌊海峡三地",TVB明珠台(港)
-http://r.jdshipin.com/ZQ4kN
-http://r.jdshipin.com/jUx8K
 http://iptv.4666888.xyz/iptv2A.php?id=29
-#EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/无线新闻台(北美).png" group-title="🌊海峡三地",TVB无线新闻(港)
-http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="翡翠台J1" tvg-name="翡翠台J1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ11.png" group-title="🌊海峡三地",TVB翡翠台J1(港)
-https://cdn6.cc.cd/163189/j1
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-id="翡翠台1" tvg-name="翡翠台1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB11.png" group-title="🌊海峡三地",TVB翡翠台1(港)
-https://cdn6.cc.cd/163189/tvb1
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="翡翠剧集" tvg-name="翡翠剧集" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBDRAMA.png" group-title="🌊海峡三地",TVB翡翠剧集(港)
 http://iptv.4666888.xyz/iptv2A.php?id=33
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBSNEW.png" group-title="🌊海峡三地",TVBS新闻(港)
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS精采.png" group-title="🌊海峡三地",TVBS精采(港)
-http://iptv.4666888.xyz/iptv2A.php?id=47
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港频道.png" group-title="🌊海峡三地",凤凰香港(港)
-http://r.jdshipin.com/NfC0f
-#EXTINF:-1 tvg-id="凤凰HD" tvg-name="凤凰HD" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港.png" group-title="🌊海峡三地",凤凰卫视HD(港)
-http://r.jdshipin.com/cCCzW
-#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视.png" group-title="🌊海峡三地",凤凰中文(港)
-http://221.7.175.154:8445/tsfile/live/1020_1.m3u8
+http://iptv.4666888.xyz/iptv2A.php?id=53
+#EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港.png" group-title="🌊海峡三地",凤凰中文(港)
+http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯.png" group-title="🌊海峡三地",凤凰资讯(港)
-http://221.7.175.154:8445/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
-http://218.104.239.114:9901/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视电影台.png" group-title="🌊海峡三地",凤凰影视(港)
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+http://221.7.175.154:85/tsfile/live/1022_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="HOY开视" tvg-name="HOY开视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY77.png" group-title="🌊海峡三地",HOY77开视影视(港)
-https://cdn.qd.je/163189/hoy
 http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="HOY开视" tvg-name="HOY开视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY78.png" group-title="🌊海峡三地",HOY78开视资讯(港)
-https://cdn.qd.je/163189/hoy78
-#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门 .png" group-title="🌊海峡三地",澳视澳门(澳)
-https://cdn.qd.je/163189/asam
-#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门mac.png" group-title="🌊海峡三地",澳视卫星(澳)
+http://iptv.4666888.xyz/iptv2A.php?id=31
+#EXTINF:-1 tvg-id="华艺中文台" tvg-name="华艺中文台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华艺中文台.png" group-title="🌊海峡三地",华艺中文台(港)
+http://iptv.4666888.xyz/iptv2A.php?id=37
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门HD.png" group-title="🌊海峡三地",澳视澳门(澳)
+http://iptv.4666888.xyz/iptv2A.php?id=41
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门卫视HD.png" group-title="🌊海峡三地",澳视卫星(澳)
 https://cdn.qd.je/163189/as
-#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视体育.png" group-title="🌊海峡三地",澳视体育(澳)
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门资讯HD.png" group-title="🌊海峡三地",澳视资讯(澳)
+https://cdn.qd.je/163189/aszx
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门体育HD.png" group-title="🌊海峡三地",澳视体育(澳)
 https://cdn.qd.je/163189/amty
-#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门综艺.png" group-title="🌊海峡三地",澳视综艺(澳)
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门综艺HD.png" group-title="🌊海峡三地",澳视综艺(澳)
 https://cdn.qd.je/163189/amzy
 #EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳门莲花.png" group-title="🌊海峡三地",澳视莲花(澳)
 https://cdn.qd.je/163189/amlh
-#EXTINF:-1 tvg-id="ftv民视" tvg-name="ftv民视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视第一台.png" group-title="🌊海峡三地",ftv民视第一台(台)
-http://4gtv.cnlive.club/channel/nc56ba28/index.m3u8?q=1784702901150
 #EXTINF:-1 tvg-id="ftv民视" tvg-name="ftv民视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视.png" group-title="🌊海峡三地",ftv民视台湾(台)
-http://4gtv.cnlive.club/channel/n7222a63c/index.m3u8?q=1784702901150
 http://iptv.4666888.xyz/iptv2A.php?id=55
 #EXTINF:-1 tvg-id="ftv民视" tvg-name="ftv民视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视综艺.png" group-title="🌊海峡三地",ftv民视综艺(台)
-http://4gtv.cnlive.club/channel/nc46cff5/index.m3u8?q=1784702901150
-http://iptv.4666888.xyz/iptv2A.php?id=46
+http://iptv.4666888.xyz/iptv2A.php?id=38
 #EXTINF:-1 tvg-id="ftv影剧" tvg-name="ftv影剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视影剧.png" group-title="🌊海峡三地",ftv民视影剧(台)
-http://iptv.4666888.xyz/iptv2A.php?id=53
+http://iptv.4666888.xyz/iptv2A.php?id=46
 #EXTINF:-1 tvg-id="影迷纪实" tvg-name="影迷纪实" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷纪实台.png" group-title="🌊海峡三地",影迷纪实(台)
 http://iptv.4666888.xyz/iptv2A.php?id=54
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷數位電影台.png" group-title="🌊海峡三地",影迷电影(台)
-https://cdn12.178.indevs.in/163189/ymswdyt
-#EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/超视34.5.png" group-title="🌊海峡三地",超视34.5(台)
-http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8度空间.png" group-title="🌊海峡三地",八度空间(马来)
-http://iptv.4666888.xyz/iptv2A.php?id=52
 
-
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="🐠电影频道",CHC家庭影院
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC家庭影院.png" group-title="🐠影视频道",CHC家庭影院
 http://180.165.8.71:19999/[076]CHC家庭影院HD?cors
 http://home.yulei.online:9999/rtp/226.0.2.240:9820
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="🐠电影频道",CHC动作电影
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC动作电影.png" group-title="🐠影视频道",CHC动作电影
 http://180.165.8.71:19999/[077]CHC动作电影HD?cors
 http://home.yulei.online:9999/rtp/226.0.2.94:8012
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC影迷电影.png" group-title="🐠电影频道",CHC影迷电影
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CHC影迷电影.png" group-title="🐠影视频道",CHC影迷电影
 http://180.165.8.71:19999/[078]CHC影迷电影HD?cors
 http://home.yulei.online:9999/rtp/226.0.2.93:8004
-#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘剧场.png" group-title="🐠电影频道",IPTV淘剧场
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.95:8001
-#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘娱乐.png" group-title="🐠电影频道",IPTV淘娱乐
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.100:8001
-#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘 电 影.png" group-title="🐠电影频道",IPTV淘电影
-http://bjyq-vnc-dns.mfsz.com.cn:8888/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠电影频道",内地电影
-http://223.75.194.87:1025/619495952
-#EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠电影频道",香港电影
-http://61.184.12.239:1234/625703337
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠电影频道",高分电影
-https://cdn12.178.indevs.in/163189/jddyt
-#EXTINF:-1 tvg-id="电影原声" tvg-name="电影原声" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cmusic.png" group-title="🐠电影频道",电影原声(美)
-https://cdn12.178.indevs.in/163189/cmusic
-#EXTINF:-1 tvg-id="梦工厂" tvg-name="梦工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamW.png" group-title="🐠电影频道",梦工厂动画(美)
-https://cdn12.178.indevs.in/163189/dreamworks
-#EXTINF:-1 tvg-id="amc电影" tvg-name="amc电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/amc電影台.png" group-title="🐠电影频道",彩虹影视台(美)
-https://cdn12.178.indevs.in/163189/amc
-#EXTINF:-1 tvg-id="世界电影" tvg-name="世界电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CinemaW.png" group-title="🐠电影频道",世界电影院(美)
-https://cdn12.178.indevs.in/163189/cinemaworld
+#EXTINF:-1 tvg-id="淘剧场" tvg-name="淘剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘剧场.png" group-title="🐠影视频道",IPTV淘剧场
+http://n2.192372.xyz:8888/rtp/239.3.1.95:8001
+http://yaoleyaotou.com:4022/rtp/239.3.1.95:8001
+#EXTINF:-1 tvg-id="淘娱乐" tvg-name="淘娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘娱乐.png" group-title="🐠影视频道",IPTV淘娱乐
+http://n2.192372.xyz:8888/rtp/239.3.1.100:8001
+http://yaoleyaotou.com:4022/rtp/239.3.1.100:8001
+#EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘 电 影.png" group-title="🐠影视频道",IPTV淘电影
+http://n2.192372.xyz:8888/rtp/239.3.1.250:8001
+http://yaoleyaotou.com:4022/rtp/239.3.1.250:8001
+#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="🐠影视频道",爱奇艺
+http://iptv.4666888.xyz/iptv2A.php?id=21
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梨园频道.png" group-title="🐠影视频道",梨园频道
+http://221.7.49.226:50085/tsfile/live/0018_2.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="🐠影视频道",重温经典
+http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="电影频道" tvg-name="电影频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国电影频道.png" group-title="🐠影视频道",电影频道
+http://iptv.4666888.xyz/iptv2A.php?id=61
+#EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",内地电影
+http://119.233.255.62:1234/619495952
+#EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",香港电影
+http://119.233.255.62:1234/625703337
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",欧美电影
+http://iptv.4666888.xyz/iptv2A.php?id=50
+#EXTINF:-1 tvg-id="梦工厂" tvg-name="梦工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamW.png" group-title="🐠影视频道",梦工厂动画(美)
 http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠电影频道",MYTV超级剧(港)
+#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧(港)
 http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视电影台.png" group-title="🐠电影频道",凤凰影视(港)
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天映画HD.png" group-title="🐠电影频道",靖天映画(台)
-http://4gtv.cnlive.club/channel/n610faa83/index.m3u8?q=1784702901150
-https://cdn12.178.indevs.in/163189/jtyh
-#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🐠电影频道",靖天电影(台)
-https://cdn12.178.indevs.in/163189/jtdy
+#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV国语剧(港)
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视电影台.png" group-title="🐠影视频道",凤凰影视(港)
+http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🐠影视频道",靖天电影(台)
 http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧HD.png" group-title="🐠电影频道",靖洋戏剧(台)
-https://cdn12.178.indevs.in/163189/jyxj
+#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧HD.png" group-title="🐠影视频道",靖洋戏剧(台)
 http://iptv.4666888.xyz/iptv2A.php?id=42
-#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷數位電影台.png" group-title="🐠电影频道",影迷电影(台)
-https://cdn12.178.indevs.in/163189/ymswdyt
-#EXTINF:-1 tvg-id="采昌影剧" tvg-name="采昌影剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/采昌影剧台.png" group-title="🐠电影频道",采昌影剧(台)
-https://cdn12.178.indevs.in/163189/ccyj
-#EXTINF:-1 tvg-id="ftv影剧" tvg-name="ftv影剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视影剧.png" group-title="🐠电影频道",民视影剧(台)
-http://iptv.4666888.xyz/iptv2A.php?id=53
-https://cdn12.178.indevs.in/163189/msyj
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影.png" group-title="🐠电影频道",龙华电影(台)
-https://cdn.qd.je/163189/lhdy
-#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华洋片1.png" group-title="🐠电影频道",龙华洋片(台)
-https://cdn.qd.je/163189/lhyp
-#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影台.png" group-title="🐠电影频道",东森电影(台)
+#EXTINF:-1 tvg-id="影迷电影" tvg-name="影迷电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/影迷數位電影台.png" group-title="🐠影视频道",影迷电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=54
+#EXTINF:-1 tvg-id="ftv影剧" tvg-name="ftv影剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视影剧.png" group-title="🐠影视频道",民视影剧(台)
+http://iptv.4666888.xyz/iptv2A.php?id=46
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影.png" group-title="🐠影视频道",龙华电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华洋片1.png" group-title="🐠影视频道",龙华洋片(台)
+http://iptv.4666888.xyz/iptv2A.php?id=60
+#EXTINF:-1 tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/东森电影台.png" group-title="🐠影视频道",东森电影(台)
 http://iptv.4666888.xyz/iptv2A.php?id=48
 
 
 #EXTINF:-1 tvg-id="奥林匹克" tvg-name="奥林匹克" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🏓体育频道",奥林匹克
 http://180.165.8.71:19999/[139]CCTV-16HD?cors
-http://58.217.52.46:9900/央视/CCTV-16奥林匹克?cors
 #EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="🏓体育频道",高尔夫·网球
 http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
-http://207.56.13.146:81/cdnlive/gefwq.m3u8
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🏓体育频道",风云足球
 http://180.165.8.71:19999/[079]CCTV-风云足球HD?cors
-http://207.56.13.146:81/cdnlive/fyzq.m3u8
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="🏓体育频道",央视台球
 http://180.165.8.71:19999/[080]CCTV-台球HD?cors
-http://207.56.13.146:81/cdnlive/ystq.m3u8
+#EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯高球.png" group-title="🏓体育频道",博斯高球
+http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩竞技  HD.png" group-title="🏓体育频道",睛彩竞技
-http://58.217.52.46:9900/地方/睛彩竞技?cors
-http://49.84.31.139:38090/其他/睛彩竞技?cors
+http://www.alihomes.top:8188/rtp/239.254.96.172:8220
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩青少  HD.png" group-title="🏓体育频道",睛彩青少
-http://58.217.52.46:9900/地方/睛彩青少?cors
-http://49.84.31.139:38090/其他/睛彩青少?cors
+http://www.alihomes.top:8188/rtp/239.254.96.174:8220
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩篮球  HD.png" group-title="🏓体育频道",睛彩篮球
-http://58.217.52.46:9900/地方/睛彩篮球?cors
-http://49.84.31.139:38090/其他/睛彩篮球?cors
+http://www.alihomes.top:8188/rtp/239.254.96.173:8220
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩广场舞  HD.png" group-title="🏓体育频道",睛彩广场舞
-http://58.217.52.46:9900/地方/睛彩广场舞?cors
-http://49.84.31.139:38090/其他/睛彩广场舞?cors
-#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界.png" group-title="🏓体育频道",武术世界
-http://223.75.194.87:1025/958475359
+http://www.alihomes.top:8188/rtp/239.254.96.175:8220
+#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="🏓体育频道",五星体育
+http://180.165.8.71:19999/[108]五星体育HD?cors
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="🏓体育频道",快乐垂钓
-http://58.217.52.46:9900/地方/快乐垂钓?cors
-http://119.233.255.62:1234/961930263
+http://180.165.8.71:19999/[083]湖南-快乐垂钓HD?cors
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://www.xn--rgv465a.top/tvlogo/游戏风云.png" group-title="🏓体育频道",游戏风云
+http://180.165.8.71:19999/[093]游戏风云HD?cors
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="🏓体育频道",天元围棋
 http://204.12.221.218:8181/3m1080p/gztywq.m3u8
-http://wouu.net:9977/udp/239.93.42.55:5140
 
 
-#EXTINF:-1 tvg-id="梦工厂" tvg-name="梦工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/dreamworks.png" group-title="🎭️动画频道",梦工厂动画
-https://cdn12.178.indevs.in/163189/dreamworks
+#EXTINF:-1 tvg-id="梦工厂" tvg-name="梦工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamW.png" group-title="🎭️动画频道",梦工厂动画(美)
+http://iptv.4666888.xyz/iptv2A.php?id=40
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷动画" tvg-logo="https://www.xn--rgv465a.top/tvlogo/卡酷动画.png" group-title="🎭️动画频道",卡酷少儿
-http://58.217.52.46:9900/地方/卡酷少儿?cors
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://www.xn--rgv465a.top/tvlogo/浙江少儿.png" group-title="🎭️动画频道",浙江少儿
-http://ali-xwl.cztv.com/live/channel08720Plxw.m3u8
+
+http://180.165.8.71:19999/[167]卡酷少儿HD?cors
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🎭️动画频道",金鹰卡通
-http://58.217.52.46:9900/地方/金鹰卡通?cors
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="🎭️动画频道",嘉佳卡通
-http://119.233.255.62:1234/614952364
+
+http://180.165.8.71:19999/[171]金鹰卡通HD?cors
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/优漫卡通.png" group-title="🎭️动画频道",优漫卡通
-http://110.42.96.64:11119/626064703
+
+http://58.217.52.38:9900/地方/优漫卡通?cors
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海哈哈炫动.png" group-title="🎭️动画频道",哈哈炫动
+
+http://180.165.8.71:19999/[104]哈哈炫动HD?cors
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="🎭️动画频道",动漫秀场
+
 http://180.165.8.71:19999/[096]动漫秀场HD?cors
-#EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://www.xn--rgv465a.top/tvlogo/新动漫.png" group-title="🎭️动画频道",新动漫
-http://119.233.255.62:1234/961930269
-#EXTINF:-1 tvg-id="迪迦奥特曼" tvg-name="迪迦奥特曼" tvg-logo="https://www.xn--rgv465a.top/tvlogo/迪迦奥特曼.png" group-title="🎭️动画频道",迪迦奥特曼
-https://live.ottiptv.cc/huya/11601966
-https://live.metshop.top/huya/11601966
-#EXTINF:-1 tvg-id="火影忍者" tvg-name="火影忍者" tvg-logo="https://www.xn--rgv465a.top/tvlogo/火影忍者.png" group-title="🎭️动画频道",火影忍者
-http://cdn.jdshipin.com:8880/huya.php?id=29465866
-#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="🎭️动画频道",海绵宝宝
-https://live.metshop.top/douyu/3949681
-#EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="🎭️动画频道",中华小当家
-https://live.metshop.top/huya/11342413
-https://live.ottiptv.cc/huya/11342413
+#EXTINF:-1 tvg-id="斗破苍穹" tvg-name="斗破苍穹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斗破苍穹.png" group-title="🎭️动画频道",斗破苍穹
+https://live.ottiptv.cc/huya/11336572
 #EXTINF:-1 tvg-id="猫和老鼠" tvg-name="猫和老鼠" tvg-logo="https://www.xn--rgv465a.top/tvlogo/猫和老鼠.png" group-title="🎭️动画频道",猫和老鼠
-https://live.metshop.top/huya/11352879
 https://live.ottiptv.cc/huya/11352879
-#EXTINF:-1 tvg-id="蜡笔小新" tvg-name="蜡笔小新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/蜡笔小新.png" group-title="🎭️动画频道",蜡笔小新
-https://live.ottiptv.cc/bilibili/30837590
+#EXTINF:-1 tvg-id="中华小当家" tvg-name="中华小当家" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中华小当家.png" group-title="🎭️动画频道",中华小当家
+https://live.ottiptv.cc/huya/11342413
+#EXTINF:-1 tvg-id="海绵宝宝" tvg-name="海绵宝宝" tvg-logo="https://www.xn--rgv465a.top/tvlogo/海绵宝宝.png" group-title="🎭️动画频道",海绵宝宝
+https://live.ottiptv.cc/huya/11352919
+#EXTINF:-1 tvg-id="变形金刚" tvg-name="变形金刚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/变形金刚动画版.png" group-title="🎭️动画频道",变形金刚
+https://live.ottiptv.cc/douyu/1487654
 #EXTINF:-1 tvg-id="漫画解说" tvg-name="漫画解说" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫视频.png" group-title="🎭️动画频道",漫画解说
-https://www.goodiptv.club/douyu/5907076
+https://live.ottiptv.cc/douyu/5907076
+#EXTINF:-1 tvg-id="科幻Fans布玛" tvg-name="科幻Fans布玛" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫视频.png" group-title="🎭️动画频道",科幻Fans布玛
+https://live.ottiptv.cc/douyu/3508304
+
 
 
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/春晚.png" group-title="🎰春晚频道",1983年春晚
@@ -592,81 +562,4 @@ https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/春晚.png" group-title="🎰春晚频道",2026年春晚
 https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
-
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林忆莲精选30首(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",周杰伦精选120首(8小时)
-https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰精选81首(5小时)
-https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",潘玮柏精选28首(1小时)
-https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",SHE精选40首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/07/30/19/BMjAyMzA3MzAxOTEyNDhfODI4NTk1NTQ0XzEwOTI2ODgxNTQyOF8yXzM=_b_B1770e5ac950c20cda3df1678ded64cbc.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",徐良精选30首(1小时)
-https://alimov2.a.kwimgs.com/upic/2024/05/08/20/BMjAyNDA1MDgyMDAyMjFfMTg1NzcxNTYxOF8xMzE5MDIyNTY0NzNfMl8z_b_B62cb1e50d6a0dea4efc3e6da93662aa4.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",许嵩精选30首(2小时)
-https://alimov2.a.kwimgs.com/upic/2020/09/14/21/BMjAyMDA5MTQyMTMzMDdfODI4NTk1NTQ0XzM2MDUzMTE1NjM5XzJfMw==_b_B789c6ea6a87d1b67019f19f16c9f71f7.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",汪苏泷精选20首(1小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/30/22/BMjAyMDA5MzAyMjA3NDNfODI4NTk1NTQ0XzM2ODY2MzQxNzg4XzJfMw==_b_Bb726df27e24fda5e4d31b724d84ab8d4.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",陶喆精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzEzMzhfODM0NDUzMTQ2XzEwOTgxMDA2NzAyNF8wXzM=_b_B5e5a6bf1ef67081a9a226a2f6145ea2d.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",陈奕迅精选34首(2小时)
-https://txmov2.a.kwimgs.com/upic/2022/12/22/17/BMjAyMjEyMjIxNzM3NDNfMTg1NzcxNTYxOF85MTcyMjE1NDQzNV8yXzM=_b_B16479ab3769c6fcfed15a06b75c2656e.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",邓紫棋精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/05/08/12/BMjAyMzA1MDgxMjIwNTNfMzQ4MzI0MjA1OF8xMDI1NjYyMjM5MDZfMF8z_b_B0675fa55fe8ce0583fb05fa02330e9f1.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",薛之谦精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/07/28/13/BMjAyMzA3MjgxMzUwMzRfODM0NDUzMTQ2XzEwOTA3NjA4NDU2Nl8wXzM=_b_B480250201ec7378867d92e4d29f7a644.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",五月天精选37首(2小时)
-https://txmov2.a.kwimgs.com/upic/2021/12/07/23/BMjAyMTEyMDcyMzU2MzBfMjgwMTM4ODFfNjIzMTcwNTU3MTlfMl8z_b_Bd70a16353267a52b31d11f2cb77c6c5b.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",蔡依林精选102首(6小时)
-https://txmov2.a.kwimgs.com/upic/2025/06/12/20/BMjAyNTA2MTIyMDUzMjFfNDQzMTI2Mjg0XzE2NjY1MzM5MjYxMV8yXzM=_b_B3bed4c7c1a80388966791d398e318edd.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",任然精选20首(1小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/23/14/BMjAyMDA5MjMxNDA1MjFfMTc4NDYxNDcyNl8zNjQ5NDI4NzI1Nl8yXzM=_b_B0f6d5151ab2c346816996328a0b66b78.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",张韶涵精选96首(6小时)
-https://txmov2.a.kwimgs.com/upic/2023/04/24/02/BMjAyMzA0MjQwMjA4MDlfMjE0OTExOTI2N18xMDEzNTM2NjA5OTFfMF8z_b_Baa658d527c452cd09e6dc0e9684c1bed.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",王心凌精选69首(4小时)
-https://txmov2.a.kwimgs.com/upic/2023/07/26/22/BMjAyMzA3MjYyMjExNTNfMzYxMjUyNDA3MV8xMDg5NTQ4NjE1ODlfMF8z_b_Bdded2693ce6f7de089cfd7030b45bef7.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",莫文蔚精选72首(5小时)
-https://txmov2.a.kwimgs.com/upic/2023/07/27/21/BMjAyMzA3MjcyMTQ2MjdfMzYxMjUyNDA3MV8xMDkwMzM1MjA2NTJfMF8z_b_B144de29e473911c6e9187c9d591b8943.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",陈慧琳精选30首(1小时)
-https://txmov2.a.kwimgs.com/upic/2025/02/09/20/BMjAyNTAyMDkyMDIzNTVfMTg1NzcxNTYxOF8xNTY0NDk2NjMzNTZfMl8z_b_Bd072695cb8d3a79a9d1ac8cdb5b3b3bc.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",蔡健雅精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/08/18/21/BMjAyMzA4MTgyMTA4MzZfODM0NDUzMTQ2XzExMDgyNTA1MjcwM18wXzM=_b_B0d509c2419313652932c68153a65e4ed.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",王杰精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/06/17/BMjAyMDA5MDYxNzU1MjJfMTc4NDYxNDcyNl8zNTYyMjQ2ODIxNl8yXzM=_b_Bc35f6a28c8cf25ea947bc122c176b034.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",乔洋精选20首(1小时)
-https://txmov2.a.kwimgs.com/upic/2024/01/05/17/BMjAyNDAxMDUxNzEwMTJfNDQzMTI2Mjg0XzEyMTM5OTg3NTU2MV8yXzM=_b_Bf81e0b3d32a3fe727949531d0929868e.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",庄心妍精选44首(2小时)
-https://txmov2.a.kwimgs.com/upic/2023/09/29/09/BMjAyMzA5MjkwOTEzMDVfMjE0OTExOTI2N18xMTM3OTU3ODM3NzFfMF8z_b_B1909889bf55e6af6f994b05596fb589f.mp4
-#EXTM3U x-tvg-url=""
-https://txmov2.a.kwimgs.com/upic/2023/08/06/13/BMjAyMzA4MDYxMzA3MTVfODM0NDUzMTQ2XzEwOTgwOTYwMjQ1OV8wXzM=_b_Bd9c215cb7ac961de3d5db54cb7bffed6.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",王力宏精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0XzM2ODY1NDA2MDM3XzJfMw==_b_Bf61393cb3ef5f8ab4b687ae367ed1211.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",孙燕姿精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",周深精选72首(5小时)
-https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",飞轮海精选30首(2小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",颜人中精选36首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000d07m1fnog65i93c1s7qg&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",张惠妹精选10首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstjqpn0&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",刘若英精选50首(3小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",Alin精选16首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",杨丞琳精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",南拳妈妈精选13首(1小时)
-https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",王心凌经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",陶喆经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",许嵩经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
 
