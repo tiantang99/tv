@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://19803.kstore.space/sites.txt",
+      "url": "https://cdn.jsdelivr.net/gh/tiantang99/tv/sites.txt",
       "name": "沁园春·雪"
     },
     {
