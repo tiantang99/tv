@@ -103,10 +103,10 @@ http://58.217.52.38:9900/央视/CCTV-3综艺/2?cors
 http://180.165.8.71:19999/[127]CCTV-4HD?cors
 http://58.217.52.38:9900/央视/CCTV-4中文国际?cors
 #EXTINF:-1 tvg-id="CCTV-4欧洲" tvg-name="CCTV-4欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🌏️央视数字",CCTV-4中文国际·欧洲
-http://ccj.gohome.link:55556/rtp/239.3.1.213:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.213:4220
 http://yaoleyaotou.com:4022/rtp/239.3.1.213:4220
 #EXTINF:-1 tvg-id="CCTV-4美洲" tvg-name="CCTV-4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🌏️央视数字",CCTV-4中文国际·美洲
-http://ccj.gohome.link:55556/rtp/239.3.1.214:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.214:4220
 http://yaoleyaotou.com:4022/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌏️央视数字",CCTV-5体育
 http://180.165.8.71:19999/[128]CCTV-5HD?cors
