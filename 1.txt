@@ -1,7 +1,7 @@
 {
   "urls": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/tiantang99/tv/sites.txt",
+      "url": "https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/sites.txt",
       "name": "沁园春·雪"
     },
     {
