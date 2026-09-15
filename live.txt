@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月14日>更新网络地址
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月15日>无事
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://82.156.245.233:30008/959986621
 http://119.233.255.62:1234/959986621
@@ -153,22 +153,22 @@ http://58.217.52.38:9900/央视/CCTV-17农业农村?cors
 
 
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN .png" group-title="🌏️央视数字", CGTN国际频道
-http://ccj.gohome.link:55556/rtp/239.3.1.215:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.215:4220
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN纪录 .png" group-title="🌏️央视数字", CGTN英语记录频道
-http://ccj.gohome.link:55556/rtp/239.3.1.216:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.216:4220
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN俄语 .png" group-title="🌏️央视数字", CGTN俄语频道
-http://ccj.gohome.link:55556/rtp/239.3.1.220:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.220:4220
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法语.png" group-title="🌏️央视数字", CGTN法语频道
-http://ccj.gohome.link:55556/rtp/239.3.1.218:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.218:4220
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西语频道
-http://ccj.gohome.link:55556/rtp/239.3.1.217:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.217:4220
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿语频道
-http://ccj.gohome.link:55556/rtp/239.3.1.219:4220
+http://n2.192372.xyz:8888/rtp/239.3.1.219:4220
 https://0472.org/hls/cgtna.m3u8
 
 
