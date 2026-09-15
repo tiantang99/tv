@@ -153,22 +153,22 @@ http://58.217.52.38:9900/央视/CCTV-17农业农村?cors
 
 
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN .png" group-title="🌏️央视数字", CGTN国际频道
-
+http://113.238.174.223:9005/rtp/232.0.0.188:1234
 https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN纪录 .png" group-title="🌏️央视数字", CGTN英语记录频道
-
+http://113.238.174.223:9005/rtp/232.0.0.198:1234
 https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN俄语 .png" group-title="🌏️央视数字", CGTN俄语频道
-
+http://113.238.174.223:9005/rtp/232.0.0.28:1234
 https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法语.png" group-title="🌏️央视数字", CGTN法语频道
-http://hongzhijiaoyu.net:8188/udp/239.77.0.228:5146
+http://113.238.174.223:9005/rtp/232.0.0.8:1234
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西语频道
-
+http://113.238.174.223:9005/rtp/232.0.0.6:1234
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿语频道
-
+http://113.238.174.223:9005/rtp/232.0.0.43:1234
 https://0472.org/hls/cgtna.m3u8
 
 
