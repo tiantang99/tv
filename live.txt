@@ -1,93 +1,93 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月15日>无事
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月15日>更新网络地址
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://82.156.245.233:30008/959986621
-http://119.233.255.62:1234/959986621
+http://101.91.126.133:1234/959986621
 http://101.91.126.133:1234/959986621
 http://117.72.126.187:8899/959986621
 
 
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🌐央视咪咕",CCTV-1综合
-http://119.233.255.62:1234/608807420
+http://101.91.126.133:1234/608807420
 http://101.35.240.114:88/live.php?id=CCTV1
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="🌐央视咪咕",CCTV-2财经
-http://119.233.255.62:1234/631780532
+http://101.91.126.133:1234/631780532
 http://101.35.240.114:88/live.php?id=CCTV2
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="🌐央视咪咕",CCTV-3综艺
-http://119.233.255.62:1234/624878271
+http://101.91.126.133:1234/624878271
 http://101.35.240.114:88/live.php?id=CCTV3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🌐央视咪咕",CCTV-4中文国际
-http://119.233.255.62:1234/631780421
+http://101.91.126.133:1234/631780421
 http://101.35.240.114:88/live.php?id=CCTV4
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·欧洲
-http://119.233.255.62:1234/608807419 
+http://101.91.126.133:1234/608807419 
 http://111.230.72.38:1234/608807419 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4美洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·美洲
-http://119.233.255.62:1234/608807416
+http://101.91.126.133:1234/608807416
 http://111.230.72.38:1234/608807416
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌐央视咪咕",CCTV-5体育
-http://119.233.255.62:1234/641886683
+http://101.91.126.133:1234/641886683
 http://111.230.72.38:1234/641886683
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌐央视咪咕",CCTV-5+体育赛事
-http://119.233.255.62:1234/641886773
+http://101.91.126.133:1234/641886773
 http://111.230.72.38:1234/641886773
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌐央视咪咕",CCTV-6电影
-http://119.233.255.62:1234/624878396
+http://101.91.126.133:1234/624878396
 http://101.35.240.114:88/live.php?id=CCTV6
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="🌐央视咪咕",CCTV-7国防军事
-http://119.233.255.62:1234/673168121
+http://101.91.126.133:1234/673168121
 http://101.35.240.114:88/live.php?id=CCTV7
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="🌐央视咪咕",CCTV-8电视剧
-http://119.233.255.62:1234/624878356
+http://101.91.126.133:1234/624878356
 http://101.35.240.114:88/live.php?id=CCTV8
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="🌐央视咪咕",CCTV-9记录
-http://119.233.255.62:1234/673168140
+http://101.91.126.133:1234/673168140
 http://101.35.240.114:88/live.php?id=CCTV9
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="🌐央视咪咕",CCTV-10科教
-http://119.233.255.62:1234/624878405
+http://101.91.126.133:1234/624878405
 http://101.35.240.114:88/live.php?id=CCTV10
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="🌐央视咪咕",CCTV-11戏曲
-http://119.233.255.62:1234/667987558
+http://101.91.126.133:1234/667987558
 http://101.35.240.114:88/live.php?id=CCTV11
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="🌐央视咪咕",CCTV-12社会与法
-http://119.233.255.62:1234/673168185
+http://101.91.126.133:1234/673168185
 http://101.35.240.114:88/live.php?id=CCTV12
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" ghttp-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="🌐央视咪咕",CCTV-13新闻
-http://119.233.255.62:1234/608807423
+http://101.91.126.133:1234/608807423
 http://101.35.240.114:88/live.php?id=CCTV13
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="🌐央视咪咕",CCTV-14少儿
-http://119.233.255.62:1234/624878440
+http://101.91.126.133:1234/624878440
 http://101.35.240.114:88/live.php?id=CCTV14
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🌐央视咪咕",CCTV-15音乐
-http://119.233.255.62:1234/673168223
+http://101.91.126.133:1234/673168223
 http://101.35.240.114:88/live.php?id=CCTV15
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌐央视咪咕",CCTV-16奥林匹克
 
 http://180.165.8.71:19999/[139]CCTV-16HD?cors
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌐央视咪咕",CCTV-17农业农村
-http://119.233.255.62:1234/673168256
+http://101.91.126.133:1234/673168256
 http://101.35.240.114:88/live.php?id=CCTV17
 
 #EXTINF:-1 tvg-id="老故事" tvg-name="老故事" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视新影老故事.png"  group-title="🌐央视咪咕",中央新影·老故事
-http://119.233.255.62:1234/884121956
+http://101.91.126.133:1234/884121956
 #EXTINF:-1 tvg-id="中学生" tvg-name="中学生" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视新影中学生.png"  group-title="🌐央视咪咕",中央新影·中学生
-http://119.233.255.62:1234/708869532
+http://101.91.126.133:1234/708869532
 #EXTINF:-1 tvg-id="发现" tvg-name="发现" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视新影发现之旅.png"  group-title="🌐央视咪咕",中央新影·发现之旅
-http://119.233.255.62:1234/624878970
+http://101.91.126.133:1234/624878970
 
 #EXTINF:-1 tvg-name="CGTN新闻" tvg-id="CGTN新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN .png" group-title="🌐央视咪咕", CGTN国际频道
-http://119.233.255.62:1234/609017205
+http://101.91.126.133:1234/609017205
 #EXTINF:-1 tvg-name="CGTN纪录" tvg-id="CGTN纪录" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN纪录 .png" group-title="🌐央视咪咕", CGTN英语纪录频道
-http://119.233.255.62:1234/609006487
+http://101.91.126.133:1234/609006487
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN俄语 .png" group-title="🌐央视咪咕", CGTN俄语频道
-http://119.233.255.62:1234/609006446
+http://101.91.126.133:1234/609006446
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法语.png" group-title="🌐央视咪咕", CGTN法语频道
-http://119.233.255.62:1234/609006476
+http://101.91.126.133:1234/609006476
 #EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌐央视咪咕", CGTN西班牙语频道
-http://119.233.255.62:1234/609006450
+http://101.91.126.133:1234/609006450
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌐央视咪咕", CGTN阿拉伯语频道
-http://119.233.255.62:1234/609154345
+http://101.91.126.133:1234/609154345
 
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🌏️央视数字",CCTV-1综合
@@ -170,7 +170,6 @@ https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿语频道
 http://113.238.174.223:9005/rtp/232.0.0.43:1234
 https://0472.org/hls/cgtna.m3u8
-
 
 #EXTINF:-1 tvg-id="CCTV-4k" tvg-name="CCTV-4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4KHD.png" group-title="🧭央视专享",央视超高清
 http://180.165.8.71:19999/[124]CCTV-4K_4K?cors
@@ -387,9 +386,9 @@ http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="电影频道" tvg-name="电影频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国电影频道.png" group-title="🐠影视频道",电影频道
 http://iptv.4666888.xyz/iptv2A.php?id=61
 #EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",内地电影
-http://119.233.255.62:1234/619495952
+http://101.91.126.133:1234/619495952
 #EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",香港电影
-http://119.233.255.62:1234/625703337
+http://101.91.126.133:1234/625703337
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",欧美电影
 http://iptv.4666888.xyz/iptv2A.php?id=50
 #EXTINF:-1 tvg-id="梦工厂" tvg-name="梦工厂" tvg-logo="https://www.xn--rgv465a.top/tvlogo/DreamW.png" group-title="🐠影视频道",梦工厂动画(美)
@@ -648,4 +647,3 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
 https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",许嵩经典合集(2小时)
 https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
-
