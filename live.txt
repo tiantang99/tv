@@ -31,7 +31,7 @@ http://101.91.126.133:1234/641886683
 http://101.35.240.114:88/live.php?id=CCTV5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌐央视咪咕",CCTV-5+体育赛事
 http://101.91.126.133:1234/641886773
-http://101.35.240.114:88/live.php?id=CCTV5+
+http://101.35.240.114:88/live.php?id=CCTV5p
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌐央视咪咕",CCTV-6电影
 http://101.91.126.133:1234/624878396
 http://101.35.240.114:88/live.php?id=CCTV6
