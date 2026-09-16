@@ -2,64 +2,64 @@
 <!DOCTYPE tv SYSTEM "xmltv.dtd">
 <tv generator-info-name="老张的EPG" generator-info-url="http://epg.51zmt.top:8000" source-info-name="免费EPG数据聚合" source-info-url="http://epg.51zmt.top:8000">
   <channel id="1">
-    <display-name lang="zh">CCTV1</display-name>
+    <display-name lang="zh">CCTV-1综合</display-name>
   </channel>
   <channel id="2">
-    <display-name lang="zh">CCTV2</display-name>
+    <display-name lang="zh">CCTV-2财经</display-name>
   </channel>
   <channel id="3">
-    <display-name lang="zh">CCTV3</display-name>
+    <display-name lang="zh">CCTV-3综艺</display-name>
   </channel>
   <channel id="4">
-    <display-name lang="zh">CCTV4</display-name>
+    <display-name lang="zh">CCTV-4中文国际</display-name>
   </channel>
   <channel id="5">
-    <display-name lang="zh">CCTV5</display-name>
+    <display-name lang="zh">CCTV-5体育</display-name>
   </channel>
   <channel id="6">
-    <display-name lang="zh">CCTV5+</display-name>
+    <display-name lang="zh">CCTV-5+体育赛事</display-name>
   </channel>
   <channel id="7">
-    <display-name lang="zh">CCTV6</display-name>
+    <display-name lang="zh">CCTV-6电影</display-name>
   </channel>
   <channel id="8">
-    <display-name lang="zh">CCTV7</display-name>
+    <display-name lang="zh">CCTV-7国防军事</display-name>
   </channel>
   <channel id="9">
-    <display-name lang="zh">CCTV8</display-name>
+    <display-name lang="zh">CCTV-8电视剧</display-name>
   </channel>
   <channel id="10">
-    <display-name lang="zh">CCTV9</display-name>
+    <display-name lang="zh">CCTV-9记录</display-name>
   </channel>
   <channel id="11">
-    <display-name lang="zh">CCTV10</display-name>
+    <display-name lang="zh">CCTV-10科教</display-name>
   </channel>
   <channel id="12">
-    <display-name lang="zh">CCTV11</display-name>
+    <display-name lang="zh">CCTV-11戏曲</display-name>
   </channel>
   <channel id="13">
-    <display-name lang="zh">CCTV12</display-name>
+    <display-name lang="zh">CCTV-12社会与法</display-name>
   </channel>
   <channel id="14">
-    <display-name lang="zh">CCTV13</display-name>
+    <display-name lang="zh">CCTV-13新闻</display-name>
   </channel>
   <channel id="15">
-    <display-name lang="zh">CCTV14</display-name>
+    <display-name lang="zh">CCTV-14少儿</display-name>
   </channel>
   <channel id="16">
-    <display-name lang="zh">CCTV15</display-name>
+    <display-name lang="zh">CCTV-15音乐</display-name>
   </channel>
   <channel id="17">
-    <display-name lang="zh">CCTV17</display-name>
+    <display-name lang="zh">CCTV-17农业农村</display-name>
   </channel>
   <channel id="21">
     <display-name lang="zh">海峡卫视</display-name>
   </channel>
   <channel id="22">
-    <display-name lang="zh">CCTV4EUO</display-name>
+    <display-name lang="zh">CCTV-4中文国际·欧洲</display-name>
   </channel>
   <channel id="23">
-    <display-name lang="zh">CCTV4AME</display-name>
+    <display-name lang="zh">CCTV-4中文国际·美洲</display-name>
   </channel>
   <channel id="27">
     <display-name lang="zh">湖南卫视</display-name>
@@ -188,7 +188,7 @@
     <display-name lang="zh">中国教育2台</display-name>
   </channel>
   <channel id="106">
-    <display-name lang="zh">CCTV4K</display-name>
+    <display-name lang="zh">央视超高清</display-name>
   </channel>
   <channel id="141">
     <display-name lang="zh">凤凰中文</display-name>
@@ -239,10 +239,10 @@
     <display-name lang="zh">女性时尚</display-name>
   </channel>
   <channel id="1657">
-    <display-name lang="zh">高尔夫网球</display-name>
+    <display-name lang="zh">高尔夫·网球</display-name>
   </channel>
   <channel id="1658">
-    <display-name lang="zh">央视精品</display-name>
+    <display-name lang="zh">央视文化精品</display-name>
   </channel>
   <channel id="1662">
     <display-name lang="zh">汽摩</display-name>
@@ -263,7 +263,7 @@
     <display-name lang="zh">武术世界</display-name>
   </channel>
   <channel id="1677">
-    <display-name lang="zh">发现之旅</display-name>
+    <display-name lang="zh">中央新影·发现之旅</display-name>
   </channel>
   <channel id="1678">
     <display-name lang="zh">环球奇观</display-name>
@@ -275,7 +275,7 @@
     <display-name lang="zh">文物宝库</display-name>
   </channel>
   <channel id="1683">
-    <display-name lang="zh">老故事</display-name>
+    <display-name lang="zh">中央新影·老故事</display-name>
   </channel>
   <channel id="1684">
     <display-name lang="zh">快乐垂钓</display-name>
@@ -296,7 +296,7 @@
     <display-name lang="zh">中国教育4台</display-name>
   </channel>
   <channel id="1864">
-    <display-name lang="zh">CCTV16</display-name>
+    <display-name lang="zh">CCTV-16奥林匹克</display-name>
   </channel>
   <channel id="1969">
     <display-name lang="zh">CHC影迷电影</display-name>
