@@ -178,10 +178,10 @@ http://58.217.52.38:9900/超清/CCTV4K超高清²⁵?cors
 #EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视文化精品.png" group-title="🏆央视专享",央视文化精品
 http://180.165.8.71:19999/[091]CCTV-CCTV 文化精品HD?cors
 http://60.223.78.234:7001/央视/央视文化精品HD?cors
-#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球 .png" group-title="🏆央视专享",高尔夫·网球
+#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球 (2).png" group-title="🏆央视专享",高尔夫·网球
 http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
 http://60.223.78.234:7001/央视/高尔夫网球HD?cors
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球 .png" group-title="🏆央视专享",风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球 (2).png" group-title="🏆央视专享",风云足球
 http://180.165.8.71:19999/[079]CCTV-风云足球HD?cors
 http://60.223.78.234:7001/央视/风云足球HD?cors
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球 .png" group-title="🏆央视专享",央视台球
@@ -190,7 +190,7 @@ http://60.223.78.234:7001/央视/央视台球HD?cors
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐 .png" group-title="🏆央视专享",风云音乐
 http://180.165.8.71:19999/[090]CCTV-风云音乐HD?cors
 http://60.223.78.234:7001/央视/风云音乐HD?cors
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技 .png" group-title="🏆央视专享",兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="🏆央视专享",兵器科技
 http://180.165.8.71:19999/[081]CCTV-兵器科技HD?cors
 http://60.223.78.234:7001/央视/兵器科技HD?cors
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="🏆央视专享",第一剧场
