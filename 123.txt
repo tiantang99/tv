@@ -1,0 +1,12 @@
+{
+  "urls": [
+    {
+      "url": "https://www.xn--rgv465a.top/live/diy/live.txt",
+      "name": "沁园春·雪-国内挂载"
+    },
+    {
+      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/live.txt",
+      "name": "沁园春·雪-国外挂载"
+    }
+  ]
+}
