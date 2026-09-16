@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url=""
 #EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月15日>更新咪咕
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
-http://82.156.245.233:30008/959986621
-http://101.91.126.133:1234/959986621
-http://101.91.126.133:1234/959986621
-http://117.72.126.187:8899/959986621
+http://82.156.245.233:30008/609158151
+http://112.11.122.190:58503/609158151
+http://101.91.126.133:1234/609158151
+http://117.72.126.187:8899/609158151
 
 
 
@@ -322,6 +322,8 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="翡翠剧集" tvg-name="翡翠剧集" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBDRAMA.png" group-title="🌊海峡三地",TVB翡翠剧集(港)
 http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="翡翠综艺" tvg-name="翡翠综艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB生活台.png" group-title="🌊海峡三地",TVB翡翠综艺(港)
+http://iptv.4666888.xyz/iptv2A.php?id=31
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBSNEW.png" group-title="🌊海峡三地",TVBS新闻(港)
 http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBS精采.png" group-title="🌊海峡三地",TVBS精采(港)
@@ -379,10 +381,6 @@ http://n2.192372.xyz:8888/rtp/239.3.1.250:8001
 http://yaoleyaotou.com:4022/rtp/239.3.1.250:8001
 #EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="🐠影视频道",爱奇艺
 http://iptv.4666888.xyz/iptv2A.php?id=21
-#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/梨园频道.png" group-title="🐠影视频道",梨园频道
-http://221.7.49.226:50085/tsfile/live/0018_2.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://www.xn--rgv465a.top/tvlogo/重温经典.png" group-title="🐠影视频道",重温经典
-http://221.7.49.226:50085/tsfile/live/0018_3.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="电影频道" tvg-name="电影频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中国电影频道.png" group-title="🐠影视频道",电影频道
 http://iptv.4666888.xyz/iptv2A.php?id=61
 #EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",内地电影
