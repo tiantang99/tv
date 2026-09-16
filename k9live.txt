@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://gh.927223.xyz/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/e.xml"
 #EXTINF:-1 tvg-id="更新" tvg-name="更新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月16日>酷9专享
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
-http://82.156.245.233:30008/959986621
-http://112.11.122.190:58503/959986621
-http://101.91.126.133:1234/959986621
-http://117.72.126.187:8899/959986621
+http://82.156.245.233:30008/609158151
+http://112.11.122.190:58503/609158151
+http://101.91.126.133:1234/609158151
+http://117.72.126.187:8899/609158151
 
 
 
