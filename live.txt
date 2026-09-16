@@ -22,16 +22,16 @@ http://101.91.126.133:1234/631780421
 http://101.35.240.114:88/live.php?id=CCTV4
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·欧洲
 http://101.91.126.133:1234/608807419 
-http://111.230.72.38:1234/608807419 
+http://112.11.122.190:58503/608807419 
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4美洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·美洲
 http://101.91.126.133:1234/608807416
-http://111.230.72.38:1234/608807416
+http://112.11.122.190:58503/608807416
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌐央视咪咕",CCTV-5体育
 http://101.91.126.133:1234/641886683
-http://111.230.72.38:1234/641886683
+http://101.35.240.114:88/live.php?id=CCTV5
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌐央视咪咕",CCTV-5+体育赛事
 http://101.91.126.133:1234/641886773
-http://111.230.72.38:1234/641886773
+http://101.35.240.114:88/live.php?id=CCTV5+
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌐央视咪咕",CCTV-6电影
 http://101.91.126.133:1234/624878396
 http://101.35.240.114:88/live.php?id=CCTV6
