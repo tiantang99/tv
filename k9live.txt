@@ -171,40 +171,40 @@ https://0472.org/hls/cgtnx.m3u8
 http://101.26.253.232:4022/其他/CGTN 阿拉伯语?cors
 https://0472.org/hls/cgtna.m3u8
 
-#EXTINF:-1 tvg-id="CCTV-4k" tvg-name="CCTV-4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4KHD.png" group-title="🧭央视专享",央视超高清
+#EXTINF:-1 tvg-id="CCTV-4k" tvg-name="CCTV-4k" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4KHD.png" group-title="🏆央视专享",央视超高清
 http://180.165.8.71:19999/[124]CCTV-4K_4K?cors
 http://58.217.52.38:9900/超清/CCTV4K超高清²⁵?cors
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="🧭央视专享",央视文化精品
+#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://www.xn--rgv465a.top/tvlogo/文化精品.png" group-title="🏆央视专享",央视文化精品
 http://180.165.8.71:19999/[091]CCTV-CCTV 文化精品HD?cors
 http://konicax.wicp.net:8686/地方/央视文化精品?cors
-#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="🧭央视专享",高尔夫·网球
+#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="🏆央视专享",高尔夫·网球
 http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
 http://konicax.wicp.net:8686/地方/高尔夫网球?cors
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🧭央视专享",风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🏆央视专享",风云足球
 http://180.165.8.71:19999/[079]CCTV-风云足球HD?cors
 http://konicax.wicp.net:8686/地方/风云足球?cors
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="🧭央视专享",央视台球
+#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/央视台球.png" group-title="🏆央视专享",央视台球
 http://180.165.8.71:19999/[080]CCTV-台球HD?cors
 http://konicax.wicp.net:8686/地方/央视台球?cors
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="🧭央视专享",风云音乐
+#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="🏆央视专享",风云音乐
 http://180.165.8.71:19999/[090]CCTV-风云音乐HD?cors
 http://konicax.wicp.net:8686/地方/风云音乐?cors
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="🧭央视专享",兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="🏆央视专享",兵器科技
 http://180.165.8.71:19999/[081]CCTV-兵器科技HD?cors
 http://konicax.wicp.net:8686/地方/兵器科技?cors
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="🧭央视专享",第一剧场
+#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="🏆央视专享",第一剧场
 http://180.165.8.71:19999/[089]CCTV-第一剧场HD?cors
 http://konicax.wicp.net:8686/地方/第一剧场?cors
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="🧭央视专享",风云剧场
+#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云剧场.png" group-title="🏆央视专享",风云剧场
 http://180.165.8.71:19999/[088]CCTV-风云剧场HD?cors
 http://konicax.wicp.net:8686/地方/风云剧场?cors
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="🧭央视专享",怀旧剧场
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/怀旧剧场.png" group-title="🏆央视专享",怀旧剧场
 http://180.165.8.71:19999/[087]CCTV-怀旧剧场HD?cors
 http://konicax.wicp.net:8686/地方/怀旧剧场?cors
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="🧭央视专享",女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="🏆央视专享",女性时尚
 http://180.165.8.71:19999/[085]CCTV-女性时尚HD?cors
 http://konicax.wicp.net:8686/地方/女性时尚?cors
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="🧭央视专享",世界地理
+#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="🏆央视专享",世界地理
 http://180.165.8.71:19999/[082]CCTV-世界地理HD?cors
 hhttp://konicax.wicp.net:8686/地方/世界地理HD?cors
 
