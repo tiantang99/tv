@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月17日>更新数字频道
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月19日>更新咪咕
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://82.156.245.233:30008/609158151
 http://112.11.122.190:58503/609158151
