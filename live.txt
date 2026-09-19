@@ -167,10 +167,10 @@ https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法语.png" group-title="🌏️央视数字", CGTN法语频道
 http://101.26.253.232:4022/其他/CGTN 法语?cors
 https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西语频道
+#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西班牙语频道
 http://101.26.253.232:4022/其他/CGTN 西班牙语?cors
 https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿语频道
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿拉伯语频道
 http://101.26.253.232:4022/其他/CGTN 阿拉伯语?cors
 https://0472.org/hls/cgtna.m3u8
 
