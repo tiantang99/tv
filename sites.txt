@@ -23,8 +23,8 @@
       },
       "playerType" : 2,
       "searchable" : 1,
-      "quickSearch" : 0,
-      "changeable" : 0
+      "quickSearch" : 1,
+      "changeable" : 1
     },
     {
       "key": "视界",
@@ -44,7 +44,7 @@
       "api": "csp_T4Guard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+Trbx4j10CIoZMv3Ag4bdEYQqTMqu/Z3YPtC2NJv6n6YeZdgyWlo4WJjBL5gUt6B7LvCEDT4CLrWka31GRq7jwVkfQRB/Jy9HkG7E8xUBIJi5DdVFk3qAuGnwUWqQNRblRxzHW+tdSm6zoFcG/QkZ97bzWOXn0fzbgwjBDkBHgcPIYjlULlctCNKgJ9DzGNSl+zMZDZgmxczsZeeahRS38Cst3qvaHn1T2lmLBGVGXPaRovi77LPRRDOJSNRrdpvCHdRikYwgar0MU56hXMGeGBiKp/OmGTIYR8dFRGvZ/m8xGOqs8U13h6wvADOGlYoP9VaQBqTcDnz9Q0Urhw3oFXWyvIlUrDhX9la5L2NYzagbyk3afqhxeSXXp07nAFsNy2CojHRTbmz4eohLoIJTSi2DzPpheVx1DAapfgRdTc7Ax5ddYpN338GiDAa0GnEgLe04a1pZ5jF+/Q7HJswqlSO+DXCQ3FjRbb/ZPQcozcCWwzhUHE1QUAt799V9DPMuiHGyudIcZarGQmezB+Lb45RdHIRy0PXD+NRVPJlfDFD5FMGSqsiVklibvuwlVHT8J5vHgh/1nEZoI1RlYYLrkjTts2EeQmrpB/sgLyo1vnjFw=="
     },
     {
@@ -120,9 +120,9 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"
       }
@@ -138,16 +138,16 @@
       },
       "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
       "api": "csp_FirstAidGuard",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "style": {
         "type": "rect",
         "ratio": 3.8
@@ -165,9 +165,9 @@
       },
       "timeout": 10,
       "playerType": "2",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "斗鱼js",
@@ -181,9 +181,9 @@
       },
       "timeout": 10,
       "playerType": "2",
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "咕咕",
@@ -191,9 +191,9 @@
       "type": 3,
       "api": "csp_AppSxGuard",
       "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
+      "searchable": 0,
+      "quickSearch": 1,
+      "changeable": 1,
       "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
     },
     {
@@ -205,9 +205,9 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/ysf/89370c8ddf36b5e1beb4d71adb921bda.txt"
       }
@@ -221,9 +221,9 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/ysf/d7a21cf34ede56f5c686ecfba5fc7e3f.txt"
       }
@@ -237,9 +237,9 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/ysf/8f55d520f8d70056695740ef151744a7.txt"
       }
@@ -253,9 +253,9 @@
         "type": "rect",
         "ratio": 1.597
       },
-      "searchable": 1,
+      "searchable": 0,
       "quickSearch": 1,
-      "changeable": 0,
+      "changeable": 1,
       "ext": {
         "json": "https://nos.netease.com/ysf/c66a4b5356141c49fd45ec51568017b4.txt"
       }
