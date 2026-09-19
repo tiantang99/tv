@@ -344,7 +344,7 @@ rtmp://f13h.mine.nu/sat/tv091
 rtmp://f13h.mine.nu/sat/tv111
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非凡新聞.png" group-title="🌊海峡港台",非凡新闻(台)
 rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MOMOTV电视台.png" group-title="🌊海峡港台",MOMO TV綜合(台)
+#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MOMOTV电视台.png" group-title="🌊海峡港台",MOMOTV綜合(台)
 rtmp://f13h.mine.nu/sat/tv761
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cna1.png" group-title="🌊海峡港台",CNA亚洲新闻(新)
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
@@ -375,32 +375,14 @@ http://yaoleyaotou.com:4022/rtp/239.3.1.250:8001
 http://219.140.6.156:1234/619495952
 #EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",香港电影
 http://219.140.6.156:1234/625703337
-#EXTINF:-1 tvg-id="经典电影" http-user-agent="iPhone" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",重温经典
-http://101.35.240.114:88/live.php?id=重温经典
-#EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视电影台.png" group-title="🐠影视频道",凤凰影视(港)
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",经典电影
+http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记.png" group-title="🐠影视频道",西游记
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记续集.png" group-title="🐠影视频道",西游记续集
 https://live.ottiptv.cc/douyu/3113309
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记后传.png" group-title="🐠影视频道",西游记后传
 https://live.ottiptv.cc/yy/1353392400
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧(港)
-http://iptv.4666888.xyz/iptv2A.php?id=22
-#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV国语剧(港)
-http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🐠影视频道",靖天电影(台)
-http://iptv.4666888.xyz/iptv2A.php?id=53
-#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="🐠影视频道",靖天戏剧(台)
-http://iptv.4666888.xyz/iptv2A.php?id=38
-#EXTINF:-1 tvg-id="靖洋戏剧" tvg-name="靖洋戏剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖洋戏剧HD.png" group-title="🐠影视频道",靖洋戏剧(台)
-http://iptv.4666888.xyz/iptv2A.php?id=
-#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影.png" group-title="🐠影视频道",龙华电影(台)
-http://iptv.4666888.xyz/iptv2A.php?id=56
-#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华洋片1.png" group-title="🐠影视频道",龙华洋片(台)
-http://iptv.4666888.xyz/iptv2A.php?id=57
-#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8度空间.png" group-title="🐠影视频道",八度空间(马)
-http://iptv.4666888.xyz/iptv2A.php?id=45
 
 
 
@@ -426,10 +408,6 @@ http://101.26.253.232:4022/其他/天元围棋?cors
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-id="体育娱乐" tvg-name="体育娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRACESportStars.png" group-title="🏓体育频道",Trace Sports体育娱乐(法国)
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯高球.png" group-title="🏓体育频道",博斯高尔夫
-http://iptv.4666888.xyz/iptv2A.php?id=10
-#EXTINF:-1 tvg-id="时尚运动" tvg-name="时尚运动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/时尚运动X.png" group-title="🏓体育频道",时尚运动
-http://iptv.4666888.xyz/iptv2A.php?id=49
 
 
 
