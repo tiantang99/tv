@@ -426,7 +426,7 @@ https://live.ottiptv.cc/douyu/9348805
 http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 tvg-id="时尚运动" tvg-name="时尚运动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/时尚运动X.png" group-title="🏓体育频道",时尚运动
 http://iptv.4666888.xyz/iptv2A.php?id=49
-#EXTINF:-1 tvg-id="美国格斗‌" tvg-name="美国格斗‌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FIGHT.TV‌.png" group-title="🏓体育频道",美国格斗‌
+#EXTINF:-1 tvg-id="美国格斗‌" tvg-name="美国格斗‌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FIGHT.png" group-title="🏓体育频道",美国格斗‌
 http://iptv.4666888.xyz/iptv2A.php?id=59
 #EXTINF:-1 tvg-id="体育娱乐" tvg-name="体育娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRACESportStars.png" group-title="🏓体育频道",Trace Sports体育娱乐(法国)
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
