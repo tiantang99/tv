@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月19日>更新港澳频道
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月21日>更新港澳频道
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://219.140.6.156:1234/609158151
 http://112.11.122.190:58503/609158151
@@ -167,10 +167,10 @@ https://0472.org/hls/cgtne.m3u8
 #EXTINF:-1 tvg-name="CGTN法语" tvg-id="CGTN法语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/法语.png" group-title="🌏️央视数字", CGTN法语频道
 http://101.26.253.232:4022/其他/CGTN 法语?cors
 https://0472.org/hls/cgtnf.m3u8
-#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西班牙语频道
+#EXTINF:-1 tvg-name="CGTN西语" tvg-id="CGTN西语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN西语 .png" group-title="🌏️央视数字", CGTN西语频道
 http://101.26.253.232:4022/其他/CGTN 西班牙语?cors
 https://0472.org/hls/cgtnx.m3u8
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿拉伯语频道
+#EXTINF:-1 tvg-name="CGTN阿语" tvg-id="CGTN阿语频道" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN阿语 .png" group-title="🌏️央视数字", CGTN阿语频道
 http://101.26.253.232:4022/其他/CGTN 阿拉伯语?cors
 https://0472.org/hls/cgtna.m3u8
 
@@ -324,6 +324,14 @@ http://58.217.52.38:9900/卫视/云南卫视?cors
 http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠.png" group-title="🌊海峡港台",TVB明珠台(港)
 http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="翡翠台J1" tvg-name="翡翠台J1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ11.png" group-title="🌊海峡港台",TVB翡翠台J1(港)
+http://iptv.4666888.xyz/iptv2A.php?id=26
+#EXTINF:-1 tvg-id="翡翠台1" tvg-name="翡翠台1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB11.png" group-title="🌊海峡港台",TVB翡翠台1(港)
+http://iptv.4666888.xyz/iptv2A.php?id=25
+#EXTINF:-1 tvg-id="翡翠剧集" tvg-name="翡翠剧集" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBDRAMA.png" group-title="🌊海峡港台",TVB翡翠剧集(港)
+http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBSNEW.png" group-title="🌊海峡港台",TVBS新闻(港)
+http://iptv.4666888.xyz/iptv2A.php?id=43
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港.png" http-user-agent="iPhone" group-title="🌊海峡港台",凤凰中文(港)
 http://101.35.240.114:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯.png" http-user-agent="iPhone" group-title="🌊海峡港台",凤凰资讯(港)
@@ -332,24 +340,18 @@ http://101.35.240.114:88/phenix.php?id=fhzx
 http://101.35.240.114:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视.png" group-title="🌊海峡港台",环球电视(港)
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
+#EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门HD.png" group-title="🌊海峡港台",澳视澳门(澳)
+http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="民视" tvg-name="民视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/民视.png" group-title="🌊海峡港台",民视(台)
-rtmp://f13h.mine.nu/sat/tv051
-#EXTINF:-1 tvg-id="台视" tvg-name="台视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视.png" group-title="🌊海峡港台",台视(台)
-rtmp://f13h.mine.nu/sat/tv071
+http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="🌊海峡港台",台视新闻(台)
 http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-#EXTINF:-1 tvg-id="中视" tvg-name="中视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视.png" group-title="🌊海峡港台",中视(台)
-rtmp://f13h.mine.nu/sat/tv091
-#EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/华视.png" group-title="🌊海峡港台",华视(台)
-rtmp://f13h.mine.nu/sat/tv111
-#EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/非凡新聞.png" group-title="🌊海峡港台",非凡新闻(台)
-rtmp://f13h.mine.nu/sat/tv581
-#EXTINF:-1 tvg-id="MOMOTV" tvg-name="MOMOTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MOMOTV电视台.png" group-title="🌊海峡港台",MOMOTV綜合(台)
-rtmp://f13h.mine.nu/sat/tv761
-#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/cna1.png" group-title="🌊海峡港台",CNA亚洲新闻(新)
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="Arirang" tvg-name="Arirang" tvg-logo="https://www.xn--rgv465a.top/tvlogo/arirang .png" group-title="🌊海峡港台",Arirang国际(韩)
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="HOY开视" tvg-name="HOY开视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY77.png" group-title="🌊海峡港台",开视影视(台)
+http://iptv.4666888.xyz/iptv2A.php?id=35
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/8度空间.png" group-title="🌊海峡港台",八度空间(马)
+http://iptv.4666888.xyz/iptv2A.php?id=45
+#EXTINF:-1 tvg-id="八度空间" tvg-name="八度空间" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡港台",TV5 MONDE Style(韩)
+http://iptv.4666888.xyz/iptv2A.php?id=46
 
 
 
@@ -375,8 +377,22 @@ http://yaoleyaotou.com:4022/rtp/239.3.1.250:8001
 http://219.140.6.156:1234/619495952
 #EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",香港电影
 http://219.140.6.156:1234/625703337
-#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",经典电影
+#EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",海外电影
 http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MCE.png" group-title="🐠影视频道",MCE 外语电影(港)
+http://iptv.4666888.xyz/iptv2A.php?id=40
+#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧(港)
+http://iptv.4666888.xyz/iptv2A.php?id=22
+#EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV国语剧(港)
+http://iptv.4666888.xyz/iptv2A.php?id=34
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🐠影视频道",靖天电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=55
+#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天戏剧台.png" group-title="🐠影视频道",靖天戏剧(台)
+http://iptv.4666888.xyz/iptv2A.php?id=38
+#EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华电影.png" group-title="🐠影视频道",龙华电影(台)
+http://iptv.4666888.xyz/iptv2A.php?id=56
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://www.xn--rgv465a.top/tvlogo/龙华洋片1.png" group-title="🐠影视频道",龙华洋片(台)
+http://iptv.4666888.xyz/iptv2A.php?id=57
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记.png" group-title="🐠影视频道",西游记
 https://live.ottiptv.cc/huya/26355861
 #EXTINF:-1 tvg-id="西游记" tvg-name="西游记" tvg-logo="https://www.xn--rgv465a.top/tvlogo/西游记续集.png" group-title="🐠影视频道",西游记续集
@@ -406,6 +422,12 @@ http://101.26.253.232:4022/其他/武术世界高清?cors
 http://101.26.253.232:4022/其他/天元围棋?cors
 #EXTINF:-1 tvg-id="林家渔妹" tvg-name="林家渔妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来钓鱼吧.png" group-title="🏓体育频道",林家渔妹
 https://live.ottiptv.cc/douyu/9348805
+#EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯高球.png" group-title="🏓体育频道",博斯高尔夫
+http://iptv.4666888.xyz/iptv2A.php?id=10
+#EXTINF:-1 tvg-id="时尚运动" tvg-name="时尚运动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/时尚运动X.png" group-title="🏓体育频道",时尚运动
+http://iptv.4666888.xyz/iptv2A.php?id=49
+#EXTINF:-1 tvg-id="美国格斗‌" tvg-name="美国格斗‌" tvg-logo="https://www.xn--rgv465a.top/tvlogo/FIGHT.TV‌.png" group-title="🏓体育频道",美国格斗‌
+http://iptv.4666888.xyz/iptv2A.php?id=59
 #EXTINF:-1 tvg-id="体育娱乐" tvg-name="体育娱乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRACESportStars.png" group-title="🏓体育频道",Trace Sports体育娱乐(法国)
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 
