@@ -295,7 +295,7 @@
     {
       "name": "沁园春·雪",
       "type": 0,
-      "url": "https://git.yylx.win/raw.githubusercontent.com/tiantang99/tv/refs/heads/main/sites.txt",
+      "url": "https://git.yylx.win/raw.githubusercontent.com/tiantang99/tv/refs/heads/main/live.txt",
       "playerType": 2
     },
     {
