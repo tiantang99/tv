@@ -3,8 +3,6 @@
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://219.140.6.156:1234/609158151
 http://112.11.122.190:58503/609158151
-http://117.72.126.187:8899/609158151
-http://14.216.213.86:7788/609158151
 http://219.140.6.156:1234/609158151
 http://58.32.41.137:5080/609158151
 http://27.18.158.250:1234/609158151
@@ -197,7 +195,7 @@ http://180.165.8.71:19999/[090]CCTV-风云音乐HD?cors
 http://101.26.253.232:4022/其他/风云音乐高清?cors
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="🏆央视专享",兵器科技
 http://180.165.8.71:19999/[081]CCTV-兵器科技HD?cors
-http://konicax.wicp.net:8686/地方/兵器科技?cors
+http://101.26.253.232:4022/其他/兵器科技高清?cors
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/第一剧场.png" group-title="🏆央视专享",第一剧场
 http://180.165.8.71:19999/[089]CCTV-第一剧场HD?cors
 http://101.26.253.232:4022/其他/第一剧场高清?cors
@@ -209,7 +207,7 @@ http://180.165.8.71:19999/[087]CCTV-怀旧剧场HD?cors
 http://101.26.253.232:4022/其他/怀旧剧场高清?cors
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/女性时尚.png" group-title="🏆央视专享",女性时尚
 http://180.165.8.71:19999/[085]CCTV-女性时尚HD?cors
-http://konicax.wicp.net:8686/地方/女性时尚?cors
+http://101.26.253.232:4022/其他/女性时尚高清?cors
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://www.xn--rgv465a.top/tvlogo/世界地理.png" group-title="🏆央视专享",世界地理
 http://180.165.8.71:19999/[082]CCTV-世界地理HD?cors
 http://101.26.253.232:4022/其他/世界地理高清?cors
