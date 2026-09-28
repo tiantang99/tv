@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月28日>无事发生
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月29日>更新数字频道
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://219.140.6.156:1234/609158151
 http://112.11.122.190:58503/609158151
@@ -92,65 +92,65 @@ http://219.140.6.156:1234/609154345
 
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🌏️央视数字",CCTV-1综合
+http://n2.192372.xyz:8888/rtp/239.3.1.129:8008
 http://101.26.253.232:4022/央视/CCTV-1高清?cors
-http://180.165.8.71:19999/[124]CCTV-1HD?cors
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="🌏️央视数字",CCTV-2财经
+http://n2.192372.xyz:8888/rtp/239.3.1.60:8084
 http://101.26.253.232:4022/央视/CCTV-2高清?cors
-http://180.165.8.71:19999/[125]CCTV-2HD?cors
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="🌏️央视数字",CCTV-3综艺
+http://n2.192372.xyz:8888/rtp/239.3.1.172:8001
 http://101.26.253.232:4022/央视/CCTV-3高清?cors
-http://180.165.8.71:19999/[126]CCTV-3HD?cors
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🌏️央视数字",CCTV-4中文国际
+http://n2.192372.xyz:8888/rtp/239.3.1.105:8092
 http://101.26.253.232:4022/央视/CCTV-4高清?cors
-http://180.165.8.71:19999/[127]CCTV-4HD?cors
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲.png" group-title="🌏️央视数字",CCTV-4中文国际·欧洲
-http://101.26.253.232:4022/其他/CCTV4中文国际欧洲?cors
 http://n2.192372.xyz:8888/rtp/239.3.1.213:4220
+http://101.26.253.232:4022/其他/CCTV4中文国际欧洲?cors
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4美洲.png" group-title="🌏️央视数字",CCTV-4中文国际·美洲
-http://101.26.253.232:4022/其他/CCTV4中文国际美洲?cors
 http://n2.192372.xyz:8888/rtp/239.3.1.214:4220
+http://101.26.253.232:4022/其他/CCTV4中文国际美洲?cors
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌏️央视数字",CCTV-5体育
+http://n2.192372.xyz:8888/rtp/239.3.1.173:8001
 http://101.26.253.232:4022/央视/CCTV-5高清?cors
-http://180.165.8.71:19999/[128]CCTV-5HD?cors
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌏️央视数字",CCTV-5+体育赛事
+http://n2.192372.xyz:8888/rtp/239.3.1.130:8004
 http://101.26.253.232:4022/央视/CCTV-5+高清?cors
-http://ccj.gohome.link:55556/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌏️央视数字",CCTV-6电影
+http://n2.192372.xyz:8888/rtp/239.3.1.174:8001
 http://101.26.253.232:4022/央视/CCTV-6高清?cors
-http://180.165.8.71:19999/[129]CCTV-6HD?cors
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="🌏️央视数字",CCTV-7国防军事
+http://n2.192372.xyz:8888/rtp/239.3.1.61:8104
 http://101.26.253.232:4022/央视/CCTV-7高清?cors
-http://180.165.8.71:19999/[130]CCTV-7HD?cors
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="🌏️央视数字",CCTV-8电视剧
+http://n2.192372.xyz:8888/rtp/239.3.1.175:8001
 http://101.26.253.232:4022/央视/CCTV-8高清?cors
-http://180.165.8.71:19999/[131]CCTV-8HD?cors
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="🌏️央视数字",CCTV-9纪录
+http://n2.192372.xyz:8888/rtp/239.3.1.62:8112
 http://101.26.253.232:4022/央视/CCTV-9高清?cors
-http://180.165.8.71:19999/[132]CCTV-9HD?cors
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="🌏️央视数字",CCTV-10科教
+http://n2.192372.xyz:8888/rtp/239.3.1.63:8116
 http://101.26.253.232:4022/央视/CCTV-10高清?cors
-http://180.165.8.71:19999/[133]CCTV-10HD?cors
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="🌏️央视数字",CCTV-11戏曲
+http://n2.192372.xyz:8888/rtp/239.3.1.152:8120
 http://101.26.253.232:4022/央视/CCTV-11高清?cors
-http://180.165.8.71:19999/[134]CCTV-11HD?cors
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="🌏️央视数字",CCTV-12社会与法
+http://n2.192372.xyz:8888/rtp/239.3.1.64:8124
 http://101.26.253.232:4022/央视/CCTV-12高清?cors
-http://180.165.8.71:19999/[135]CCTV-12HD?cors
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="🌏️央视数字",CCTV-13新闻
+http://n2.192372.xyz:8888/rtp/239.3.1.124:8128
 http://101.26.253.232:4022/央视/CCTV-13高清?cors
-http://180.165.8.71:19999/[136]CCTV-13HD?cors
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="🌏️央视数字",CCTV-14少儿
+http://n2.192372.xyz:8888/rtp/239.3.1.65:8132
 http://101.26.253.232:4022/央视/CCTV-14高清?cors
-http://180.165.8.71:19999/[137]CCTV-14HD?cors
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🌏️央视数字",CCTV-15音乐
+http://n2.192372.xyz:8888/rtp/239.3.1.153:8136
 http://101.26.253.232:4022/央视/CCTV-15高清?cors
-http://180.165.8.71:19999/[138]CCTV-15HD?cors
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌏️央视数字",CCTV-16奥林匹克
+http://n2.192372.xyz:8888/rtp/239.3.1.184:8001
 http://101.26.253.232:4022/央视/CCTV-16高清?cors
-http://180.165.8.71:19999/[139]CCTV-16HD?cors
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌏️央视数字",CCTV-17农业农村
+http://n2.192372.xyz:8888/rtp/239.3.1.151:8144
 http://101.26.253.232:4022/央视/CCTV-17高清?cors
-http://180.165.8.71:19999/[140]CCTV-17HD?cors
 
 
 #EXTINF:-1 tvg-name="CGTN" tvg-id="CGTN" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CGTN .png" group-title="🌏️央视数字", CGTN国际频道
