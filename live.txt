@@ -2,7 +2,6 @@
 #EXTINF:-1 tvg-id="更新" tvg-name="更新" http-user-agent="iPhone" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<9月29日>更新数字频道
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://219.140.6.156:1234/609158151
-http://112.11.122.190:58503/609158151
 http://58.32.41.137:5080/609158151
 http://27.18.158.250:1234/609158151
 
@@ -22,10 +21,10 @@ http://219.140.6.156:1234/631780421
 http://101.35.240.114:88/live.php?id=CCTV4
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·欧洲
 http://219.140.6.156:1234/608807419 
-http://112.11.122.190:58503/608807419 
+http://58.32.41.137:5080/608807419 
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4美洲.png" group-title="🌐央视咪咕",CCTV-4中文国际·美洲
 http://219.140.6.156:1234/608807416
-http://112.11.122.190:58503/608807416
+http://58.32.41.137:5080/608807416
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" http-user-agent="AptvPlayer-UA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌐央视咪咕",CCTV-5体育
 http://219.140.6.156:1234/641886683
 http://101.35.240.114:88/live.php?id=CCTV5
@@ -186,12 +185,12 @@ http://101.26.253.232:4022/其他/世界地理高清?cors
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/兵器科技.png" group-title="🏆央视专享",兵器科技
 http://180.165.8.71:19999/[081]CCTV-兵器科技HD?cors
 http://101.26.253.232:4022/其他/兵器科技高清?cors
-#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="🏆央视专享",高尔夫·网球
-http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
-http://101.26.253.232:4022/其他/高尔夫网球高清?cors
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云音乐.png" group-title="🏆央视专享",风云音乐
 http://180.165.8.71:19999/[090]CCTV-风云音乐HD?cors
 http://101.26.253.232:4022/其他/风云音乐高清?cors
+#EXTINF:-1 tvg-id="高尔夫·网球" tvg-name="高尔夫·网球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/高尔夫网球.png" group-title="🏆央视专享",高尔夫·网球
+http://180.165.8.71:19999/[086]CCTV-高尔夫网球HD?cors
+http://101.26.253.232:4022/其他/高尔夫网球高清?cors
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/风云足球.png" group-title="🏆央视专享",风云足球
 http://180.165.8.71:19999/[079]CCTV-风云足球HD?cors
 http://101.26.253.232:4022/其他/风云足球高清?cors
