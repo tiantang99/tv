@@ -64,7 +64,7 @@ http://112.109.218.254:32/673168223
 http://14.155.143.6:5007/673168223
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌐央视咪咕",CCTV-16奥林匹克
 http://112.109.218.254:32/relay/ysp-cctv16.m3u8
-http://112.109.218.254:32/relay/ysp-cctv164k.m3u8
+http://n2.192372.xyz:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌐央视咪咕",CCTV-17农业农村
 http://112.109.218.254:32/673168256
 http://14.155.143.6:5007/673168256
