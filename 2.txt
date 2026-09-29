@@ -5,7 +5,7 @@
       "name": "沁园春·雪-国内挂载"
     },
     {
-      "url": "https://gh.927223.xyz/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/live.txt",
+      "url": "cdn.jsdelivr.net/gh/tiantang99/tv/live.txt",
       "name": "沁园春·雪-国外挂载"
     }
   ]
