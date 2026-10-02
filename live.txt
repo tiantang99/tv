@@ -30,10 +30,10 @@ http://14.155.143.6:5007/608807419
 http://115.190.250.184:1905/608807416
 http://14.155.143.6:5007/608807416
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌐央视咪咕",CCTV-5体育
-http://115.190.250.184:1905/641886683
+http://woc.iiiya.cn:18888/rtp/239.61.3.35:9728
 http://14.155.143.6:5007/641886683
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌐央视咪咕",CCTV-5+体育赛事
-http://115.190.250.184:1905/641886773
+http://woc.iiiya.cn:18888/rtp/239.61.2.171:9014
 http://14.155.143.6:5007/641886773
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌐央视咪咕",CCTV-6电影
 http://115.190.250.184:1905/624878396
