@@ -290,7 +290,7 @@ http://180.165.8.71:19999/[173]内蒙古卫视HD?cors
 http://konicax.wicp.net:8686/卫视/宁夏卫视?cors
 http://180.165.8.71:19999/[178]宁夏卫视HD?cors
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/青海卫视.png" group-title="📡卫视频道",青海卫视
-http://woc.iiiya.cn:18888/rtp/239.61.2.60:8354
+http://27.214.115.243:5140/青海卫视?cors
 http://180.165.8.71:19999/[170]青海卫视HD?cors
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/山东卫视.png" group-title="📡卫视频道",山东卫视
 http://konicax.wicp.net:8686/卫视/山东卫视?cors
