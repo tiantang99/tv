@@ -135,17 +135,19 @@
       "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
     },
     {
-      "key": "Aid",
-      "name": "🚑急救┃教学",
+      "key": "AiDj",
+      "name": "❤️短漫┃AI剧",
       "type": 3,
-      "api": "csp_FirstAidGuard",
-      "searchable": 0,
+      "api": "csp_AiDjGuard",
+      "ext": {
+         "type": "video",
+         "name": "短剧",
+         "DanMu": false
+      },
+      "indexs": 0,
       "quickSearch": 1,
-      "changeable": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 3.8
-      }
+      "searchable": 1,
+      "changeable": 0
     },
     {
       "key": "虎牙js",
@@ -180,15 +182,17 @@
       "changeable": 1
     },
     {
-      "key": "咕咕",
-      "name": "🦃咕咕┃动漫",
+      "key": "Aid",
+      "name": "🚑急救┃教学",
       "type": 3,
-      "api": "csp_AppSxGuard",
-      "timeout": 10,
+      "api": "csp_FirstAidGuard",
       "searchable": 0,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuS/sSCZxc/l0mxkeoroQVYOelMAvX1kuYptSLB36YxEjVawS9p37Cgo"
+      "style": {
+        "type": "rect",
+        "ratio": 3.8
+      }
     },
     {
       "key": "少儿教育",
