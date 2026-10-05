@@ -571,6 +571,8 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
 https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰精选81首(5小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
+#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰精选31首(2小时)
+https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",潘玮柏精选28首(1小时)
 https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",SHE精选40首(2小时)
@@ -633,11 +635,3 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fbl
 https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",南拳妈妈精选13首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",王心凌经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5210946351305777158_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",陶喆经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5239938277375381611_hlsb.m3u8
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",许嵩经典合集(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5246693673328160378_hlsb.m3u8
