@@ -146,7 +146,7 @@
       },
       "indexs": 0,
       "quickSearch": 1,
-      "searchable": 1,
+      "searchable": 0,
       "changeable": 0
     },
     {
