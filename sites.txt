@@ -28,7 +28,7 @@
     },
     {
       "key": "光影",
-      "name": "🐹光影┃不卡",
+      "name": "🐼光影┃不卡",
       "type": 3,
       "api": "csp_T4Guard",
       "searchable": 0,
@@ -60,7 +60,7 @@
     },
     {
       "key": "瓜子",
-      "name": "🐼瓜子┃不卡",
+      "name": "🐹瓜子┃不卡",
       "type": 3,
       "api": "csp_AppgzGuard",
       "timeout": 15,
