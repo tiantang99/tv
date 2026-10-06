@@ -38,7 +38,7 @@
     },
     {
       "key": "厂长",
-      "name": "🐷厂长┃不卡",
+      "name": "🐭厂长┃不卡",
       "type": 3,
       "api": "csp_NewCzGuard",
       "timeout": 10,
@@ -92,7 +92,7 @@
     },
     {
       "key": "糯米",
-      "name": "🌸糯米┃秒播",
+      "name": "🌼糯米┃秒播",
       "type": 3,
       "api": "csp_NmyswvGuard",
       "timeout": 15,
@@ -102,7 +102,7 @@
     },
     {
       "key": "视界",
-      "name": "🍎茉莉┃多线",
+      "name": "🍑茉莉┃多线",
       "type": 3,
       "api": "csp_App99Guard",
       "timeout": 10,
