@@ -223,7 +223,7 @@ http://180.165.8.71:19999/[085]CCTV-女性时尚HD?cors
 
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="📡卫视频道",香港卫视
-http://fn.wsk-net.online:6008/relay/hkstv-live.m3u8
+http://zdxing.com:2222/relay/hkstv-live.m3u8
 http://woc.iiiya.cn:18888/rtp/239.61.2.184:9092
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://konicax.wicp.net:8686/卫视/广东卫视?cors
@@ -331,19 +331,19 @@ http://180.165.8.71:19999/[164]云南卫视HD?cors
 
 
 #EXTINF:-1 tvg-id="凤凰卫视" tvg-name="凤凰卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港.png" group-title="🌊海峡三地",凤凰中文(港)
-http://fn.wsk-net.online:6008/fengshows-chinese.flv
+http://zdxing.com:2222/fengshows-chinese.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯.png" group-title="🌊海峡三地",凤凰资讯(港)
-http://fn.wsk-net.online:6008/fengshows-info.flv
+http://zdxing.com:2222/fengshows-info.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港频道.png" group-title="🌊海峡三地",凤凰香港(港)
-http://fn.wsk-net.online:6008/fengshows-hongkong.flv
+http://zdxing.com:2222/fengshows-hongkong.flv
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="🌊海峡三地",香港卫视(港)
-http://fn.wsk-net.online:6008/relay/hkstv-live.m3u8
+http://zdxing.com:2222/relay/hkstv-live.m3u8
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/环球电视.png" group-title="🌊海峡三地",环球电视(港)
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊海峡三地",TVB翡翠台(港)
-http://116.77.33.98:44330/tsfile/live/1008_1.m3u8?key=txiptv
+http://iptv.4666888.xyz/iptv2A.php?id=28
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/明珠.png" group-title="🌊海峡三地",TVB明珠台(港)
-http://116.77.33.98:44330/tsfile/live/1009_1.m3u8?key=txiptv
+http://iptv.4666888.xyz/iptv2A.php?id=29
 #EXTINF:-1 tvg-id="翡翠台J1" tvg-name="翡翠台J1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBJ11.png" group-title="🌊海峡三地",TVB翡翠台J1(港)
 http://iptv.4666888.xyz/iptv2A.php?id=26
 #EXTINF:-1 tvg-id="翡翠台1" tvg-name="翡翠台1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVB11.png" group-title="🌊海峡三地",TVB翡翠台1(港)
@@ -420,7 +420,7 @@ http://180.165.8.71:19999/[093]游戏风云HD?cors
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界.png" group-title="🏓体育频道",武术世界
 http://woc.iiiya.cn:18888/rtp/239.61.3.22:9652
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="🏓体育频道",天元围棋
-http://106.115.143.43:4022/rtp/239.254.201.156:6270
+http://202.99.136.227:9999/rtp/239.253.93.211:6389
 #EXTINF:-1 tvg-id="林家渔妹" tvg-name="林家渔妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来钓鱼吧.png" group-title="🏓体育频道",林家渔妹
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/博斯高球.png" group-title="🏓体育频道",博斯高尔夫
