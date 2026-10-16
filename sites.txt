@@ -1,6 +1,6 @@
 {
   "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669",
-    "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+    "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
