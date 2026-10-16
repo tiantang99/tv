@@ -1,10 +1,10 @@
 {
-  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/bf8f9691ed0323ead5dc85d44fb9a9fd.jpg;md5;26bd32d068f360c1ec9cca0c636fd4db",
-  "wallpaper": "https://饭的动态壁纸.xxooo.cf/",
+  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669",
+    "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<10.10更新> 🎀🇨🇳更新核心库🇨🇳🎀",
+      "name": "<10.16更新> 🎀🇨🇳更新核心库·修复·海绵·漫剧🇨🇳🎀",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -283,7 +283,7 @@
       ]
     }
   ],
-  "logo": "https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
+  "logo": "http://w.junce.dpdns.org/fm.gif",
   "hosts": [
     "img1.wsyzy.org=fan.cloudflare.182682.xyz",
     "fiizvfck.top=fan.cloudflare.182682.xyz",
