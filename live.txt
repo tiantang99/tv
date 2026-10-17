@@ -1,9 +1,13 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-id="更新" tvg-name="更新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<10月16日> 🎀🇨🇳更新咪咕1线🇨🇳🎀
+#EXTINF:-1 tvg-id="更新" tvg-name="更新" tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<10月17日> 🎀🇨🇳九九重阳·福寿常安🇨🇳🎀
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://27.18.253.176:50009/609158151
-http://60.168.245.241:5008/609158151
+http://47.103.64.145:8014/609158151
 http://42.243.86.128:7788/609158151
+http://119.185.64.92:1234/609158151
+http://113.224.112.255:1234/609158151
+http://119.178.11.147:7788/609158151
+
 
 
 
@@ -433,11 +437,11 @@ http://180.165.8.71:19999/[167]卡酷少儿HD?cors
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🎭️动画频道",金鹰卡通
 http://180.165.8.71:19999/[171]金鹰卡通HD?cors
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/优漫卡通.png" group-title="🎭️动画频道",优漫卡通
-http://58.217.52.38:9900/地方/优漫卡通?cors
+http://121.224.109.153:9999/江苏频道/优漫卡通 (高清)?cors
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海哈哈炫动.png" group-title="🎭️动画频道",哈哈炫动
 http://180.165.8.71:19999/[104]哈哈炫动HD?cors
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="🎭️动画频道",嘉佳卡通
-http://120.234.187.66:10086/udp/239.21.0.94:3716
+http://lsa.familyds.com:8188/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="🎭️动画频道",动漫秀场
 http://180.165.8.71:19999/[096]动漫秀场HD?cors
 #EXTINF:-1 tvg-id="斗破苍穹" tvg-name="斗破苍穹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/斗破苍穹.png" group-title="🎭️动画频道",斗破苍穹
@@ -548,7 +552,6 @@ https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 https://p2.bdstatic.com/rtmp.liveshow.lss-user.baidubce.com/live/stream_bduid_6488563992_8982723413/merged_1707497046297_88536_25144_41936.m3u8
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/春晚.png" group-title="🎰春晚频道",2025年春晚
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
-#EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/春晚.png" group-title="🎰春晚频道",2025年春晚
 https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/133396667284143308839013005/8fbd6180bdef4da19f6155cf6b4652e1-4.m3u8
 #EXTINF:-1 tvg-id="1987年春晚" tvg-name="1987年春晚" tvg-logo="https://www.xn--rgv465a.top/tvlogo/春晚.png" group-title="🎰春晚频道",2026年春晚
 https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
@@ -556,14 +559,11 @@ https://v.lzcdn28.com/20260217/8616_1de9f6e5/index.m3u8
 
 
 
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林忆莲精选30首(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5250071375165662691_hlsb.m3u8
+
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",周杰伦精选120首(8小时)
 https://txmov2.a.kwimgs.com/upic/2023/06/18/23/BMjAyMzA2MTgyMzE1MjBfMzQ4MzI0MjA1OF8xMDU4Nzc4MzAzNjZfMF8z_b_B386baa1bb2c0c48626a830ff69393771.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰精选81首(5小时)
 https://txmov2.a.kwimgs.com/upic/2024/01/09/12/BMjAyNDAxMDkxMjA2MDdfMzQ4MzI0MjA1OF8xMjE2Nzg4Mjk4NTZfMF8z_b_Bc9f7d3b0c4b69136e61d8328a8538bd2.mp4?clientCacheKey=3xajh8b4u5j6uva_b.mp4
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",林俊杰精选31首(2小时)
-https://txmov2.a.kwimgs.com/bs3/video-hls/5231212549905475206_hlsb.m3u8
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",潘玮柏精选28首(1小时)
 https://txmov2.a.kwimgs.com/upic/2021/02/18/21/BMjAyMTAyMTgyMTI0MzNfODI4NTk1NTQ0XzQ0NTk2NzM2MDU3XzJfMw==_b_B92f3c6849966ee988590af29cfd9237b.mp4?tag=1-1750435163-std-1-6qxcke5wod-82a7afd374de76aa&clientCacheKey=3xabaxhvbd3me8s_b.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",SHE精选40首(2小时)
@@ -612,6 +612,8 @@ https://txmov2.a.kwimgs.com/upic/2020/09/30/21/BMjAyMDA5MzAyMTU2NTNfODI4NTk1NTQ0
 https://txmov2.a.kwimgs.com/upic/2020/07/15/19/BMjAyMDA3MTUxOTA1MzhfNTAyNzg4MTc0XzMyNDIzMzUwMjAyXzJfMw==_b_Bd09b171541ea966fd7a324624cfe6c16.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",周深精选72首(5小时)
 https://txmov2.a.kwimgs.com/upic/2023/08/07/21/BMjAyMzA4MDcyMTAzMzZfMzYxMjUyNDA3MV8xMDk5Mjc3MDcwMTFfMF8z_b_B707fdf2100370008b57219d4a1dab568.mp4
+#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",杨丞琳精选30首(2小时)
+https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",飞轮海精选30首(2小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cra24sfog65t497nn1o0&ratio=720p&line=0
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",颜人中精选36首(1小时)
@@ -622,7 +624,5 @@ https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0200fg10000cpfe9nfog65hhstj
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000csi2q17og65ogriq3jv0&ratio=720p&line=0
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",Alin精选16首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cvt3q87og65l7fblbmog&ratio=720p&line=0
-#EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",杨丞琳精选30首(2小时)
-https://txmov2.a.kwimgs.com/upic/2020/09/20/20/BMjAyMDA5MjAyMDAyMDdfODI4NTk1NTQ0XzM2MzcyMzIwMzYzXzJfMw==_b_B8aa481540d89fe5ec2b3507f8209c663.mp4?tag=1-1750931214-std-1-wz3snqjkat-8298da1fe959ffc7&clientCacheKey=3x8t5k75nb5mzyc_b.mp4&tt=b&di=739f67b1&bp=12681&ali_redirect_ex_hot=66666800&ali_redirect_ex_beacon=1
 #EXTINF:-1 tvg-id="音乐现场" tvg-name="音乐现场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/咪咕音乐.png" group-title="🥁音乐频道",南拳妈妈精选13首(1小时)
 https://www.iesdouyin.com/aweme/v1/playwm/?video_id=v0300fg10000cqfnlknog65p5u0cnn9g&ratio=720p&line=0
