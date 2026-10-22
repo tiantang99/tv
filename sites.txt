@@ -1,10 +1,10 @@
 {
-  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/3c60a3e44d582b5a74fdcab19a150ad5.jpg;md5;aa8d37525617af470b3b8dfc91db8669",
+  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/23a0210a87314011a88b149d6f04722e.jpg;md5;654fb7dcb0aeaaea7dba0e662395f38e",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<10.16更新> 🎀🇨🇳更新核心库·修复·海绵·漫剧🇨🇳🎀",
+      "name": "<10.23更新> 🎀🇨🇳霜降添衣，福气不凉，秋冬安康，万事无恙🇨🇳🎀",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
