@@ -62,8 +62,8 @@ http://47.103.64.145:8014/624878440
 http://106.55.35.189:1234/673168223
 http://47.103.64.145:8014/673168223
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌐央视咪咕",CCTV-16奥林匹克
-http://115.197.179.185:9999/udp/233.50.201.192:5140
-http://www.liangcl.top:8686/udp/233.50.200.112:5140
+http://183.190.98.234:4022/rtp/226.0.2.169:9264
+http://36.22.80.199:4022/udp/233.50.200.112:5140
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌐央视咪咕",CCTV-17农业农村
 http://106.55.35.189:1234/673168256
 http://47.103.64.145:8014/673168256
