@@ -435,7 +435,7 @@ http://180.165.8.71:19999/[167]卡酷少儿HD?cors
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🎭️动画频道",金鹰卡通
 http://180.165.8.71:19999/[171]金鹰卡通HD?cors
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/优漫卡通.png" group-title="🎭️动画频道",优漫卡通
-http://121.224.109.153:9999/江苏频道/优漫卡通 (高清)?cors
+http://180.105.201.170:9981/其它/优漫卡通?cors
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海哈哈炫动.png" group-title="🎭️动画频道",哈哈炫动
 http://180.165.8.71:19999/[104]哈哈炫动HD?cors
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="🎭️动画频道",嘉佳卡通
