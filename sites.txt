@@ -293,7 +293,7 @@
     {
       "name": "沁园春·雪",
       "type": 0,
-      "url": "https://github.catvod.com/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/sites.txt",
+      "url": "https://cdn.jsdelivr.net/gh/tiantang99/tv/live.txt",
       "playerType": 2
     }
   ]
