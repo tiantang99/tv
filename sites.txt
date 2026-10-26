@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "点我切源",
-      "name": "<10.23更新> 🎀🇨🇳霜降添衣，福气不凉，秋冬安康，万事无恙🇨🇳🎀",
+      "name": "<10.26更新直播源地址> 🎀🇨🇳霜降添衣，福气不凉，秋冬安康，万事无恙🇨🇳🎀",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
@@ -293,7 +293,7 @@
     {
       "name": "沁园春·雪",
       "type": 0,
-      "url": "https://git.yylx.win/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/live.txt",
+      "url": "https://github.catvod.com/https://raw.githubusercontent.com/tiantang99/tv/refs/heads/main/sites.txt",
       "playerType": 2
     }
   ]
