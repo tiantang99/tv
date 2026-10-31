@@ -1,10 +1,10 @@
 {
-  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/23a0210a87314011a88b149d6f04722e.jpg;md5;654fb7dcb0aeaaea7dba0e662395f38e",
+  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/c2759c9c03b22f2242475139110972c7.jpg;md5;d2a33b53d09ec59c4cb7e3f482ef3907",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<10.26更新直播地址> 🎀🇨🇳霜降添衣，福气不凉，秋冬安康，万事无恙🇨🇳🎀",
+      "name": "<10.31更新核心> 🎀🇨🇳霜降添衣，福气不凉，秋冬安康，万事无恙🇨🇳🎀",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
