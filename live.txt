@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url=""
-#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<11.6> 🎀🇨🇳更新咪咕🇨🇳🎀
+#EXTINF:-1 tvg-logo="https://www.xn--rgv465a.top/tvlogo/筑家.png"  group-title="🌐央视咪咕",<11.07> 🎀🇨🇳立冬安康🇨🇳🎀
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://58.210.97.102:1234/609158151
 http://47.103.64.145:8014/609158151
@@ -402,13 +402,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=38
 
 
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩竞技  HD.png" group-title="🏓体育频道",睛彩竞技
-http://www.alihomes.top:8188/rtp/239.254.96.172:8220
+http://180.107.19.127:8989/数字频道/睛彩竞技 (高清)?cors
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩青少  HD.png" group-title="🏓体育频道",睛彩青少
-http://www.alihomes.top:8188/rtp/239.254.96.174:8220
+http://180.107.19.127:8989/数字频道/睛彩青少 (高清)?cors
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩篮球  HD.png" group-title="🏓体育频道",睛彩篮球
-http://www.alihomes.top:8188/rtp/239.254.96.173:8220
+http://180.107.19.127:8989/数字频道/睛彩篮球 (高清)?cors
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩广场舞  HD.png" group-title="🏓体育频道",睛彩广场舞
-http://www.alihomes.top:8188/rtp/239.254.96.175:8220
+http://180.107.19.127:8989/数字频道/睛彩广场舞 (高清)?cors
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="🏓体育频道",五星体育
 http://58.37.200.11:5140/上海/五星体育HD?cors
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://www.xn--rgv465a.top/tvlogo/快乐垂钓.png" group-title="🏓体育频道",快乐垂钓
@@ -418,7 +418,7 @@ http://58.37.200.11:5140/地方/游戏风云HD?cors
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界.png" group-title="🏓体育频道",武术世界
 http://woc.iiiya.cn:18888/rtp/239.61.3.22:9652
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="🏓体育频道",天元围棋
-http://110.249.126.119:9999/rtp/239.253.93.211:6389
+http://180.107.19.127:8989/数字频道/天元围棋 (高清)?cors
 #EXTINF:-1 tvg-id="林家渔妹" tvg-name="林家渔妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来钓鱼吧.png" group-title="🏓体育频道",林家渔妹
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-id="体育2台" tvg-name="体育2台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ELTA体2.png" group-title="🏓体育频道",爱尔达体育2台(台)
