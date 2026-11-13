@@ -3,9 +3,11 @@
 http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://58.210.97.102:1234/609158151
 http://47.103.64.145:8014/609158151
-http://123.183.160.229:7788/609158151
 http://82.157.33.51:3000/609158151
 http://27.156.100.165:10000/609158151
+http://27.156.100.165:10000/608807420
+http://114.230.61.74:9005/608807420
+http://116.233.9.39:18080/608807420
 
 
 
@@ -343,21 +345,19 @@ http://iptv.4666888.xyz/iptv2A.php?id=26
 http://iptv.4666888.xyz/iptv2A.php?id=25
 #EXTINF:-1 tvg-id="翡翠剧集" tvg-name="翡翠剧集" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TVBDRAMA.png" group-title="🌊海峡三地",TVB翡翠剧集(港)
 http://iptv.4666888.xyz/iptv2A.php?id=33
+#EXTINF:-1 tvg-id="HOY开视" tvg-name="HOY开视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY77.png" group-title="🌊海峡三地",有线资讯台(港)
+http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="澳视" tvg-name="澳视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/澳视澳门HD.png" group-title="🌊海峡三地",澳视澳门(澳)
 http://iptv.4666888.xyz/iptv2A.php?id=19
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🌊海峡三地",靖天中文台(台)
 http://iptv.4666888.xyz/iptv2A.php?id=15
-#EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视新闻.png" group-title="🌊海峡三地",台视新闻(台)
-http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
 #EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://www.xn--rgv465a.top/tvlogo/台视财经.png" group-title="🌊海峡三地",台视财经(台)
 http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视菁采台.png" group-title="🌊海峡三地",中视菁采(台)
 http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="HOY开视" tvg-name="HOY开视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/HOY77.png" group-title="🌊海峡三地",开视影视(台)
-http://iptv.4666888.xyz/iptv2A.php?id=35
 #EXTINF:-1 tvg-id="FOX live" tvg-name="FOX live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox News.png" group-title="🌊海峡三地",FOX live福克斯新闻(美)
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",TV5 MONDE Style(韩)
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",MONDE Style法国国际(法)
 http://iptv.4666888.xyz/iptv2A.php?id=39
 
 
@@ -374,26 +374,20 @@ http://n2.192372.xyz:8888/rtp/239.3.1.95:8001
 http://n2.192372.xyz:8888/rtp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="淘电影" tvg-name="淘电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/淘 电 影.png" group-title="🐠影视频道",IPTV淘电影
 http://n2.192372.xyz:8888/rtp/239.3.1.250:8001
-#EXTINF:-1 tvg-id="城市音乐" tvg-name="城市音乐" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TRACE URBAN.png" group-title="🐠影视频道",城市音乐
-http://iptv.4666888.xyz/iptv2A.php?id=45
 #EXTINF:-1 tvg-id="新片放映" tvg-name="新片放映" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",内地电影
 http://82.157.33.51:3000/619495952
 #EXTINF:-1 tvg-id="香港电影" tvg-name="香港电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",香港电影
 http://82.157.33.51:3000/625703337
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",经典电影
 http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="凤凰影视" tvg-name="凤凰影视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CinemaW.png" group-title="🐠影视频道",世界电影
-http://iptv.4666888.xyz/iptv2A.php?id=40
-#EXTINF:-1 tvg-id="爱奇艺" tvg-name="爱奇艺" tvg-logo="https://www.xn--rgv465a.top/tvlogo/爱奇艺.png" group-title="🐠影视频道",爱奇艺电影
-http://iptv.4666888.xyz/iptv2A.php?id=21
 #EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧1(港)
 http://iptv.4666888.xyz/iptv2A.php?id=22
 #EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧2(港)
 http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV国语剧(港)
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/靖天电影HD.png" group-title="🐠影视频道",靖天中文台(台)
-http://iptv.4666888.xyz/iptv2A.php?id=15
+#EXTINF:-1 tvg-id="黄金华剧" tvg-name="黄金华剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄金华剧.png" group-title="🐠影视频道",黄金华剧台(港)
+http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金光布袋戏.png" group-title="🐠影视频道",金光布袋戏(台)
 http://iptv.4666888.xyz/iptv2A.php?id=38
 
@@ -417,7 +411,7 @@ http://58.37.200.11:5140/数字频道/游戏风云?cors
 #EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://www.xn--rgv465a.top/tvlogo/武术世界.png" group-title="🏓体育频道",武术世界
 http://woc.iiiya.cn:18888/rtp/239.61.3.22:9652
 #EXTINF:-1 tvg-id="天元围棋" tvg-name="天元围棋" tvg-logo="https://www.xn--rgv465a.top/tvlogo/天元围棋.png" group-title="🏓体育频道",天元围棋
-http://180.107.19.127:8989/数字频道/天元围棋 (高清)?cors
+http://118.113.123.6:8686/udp/239.94.1.152:5140
 #EXTINF:-1 tvg-id="林家渔妹" tvg-name="林家渔妹" tvg-logo="https://www.xn--rgv465a.top/tvlogo/来钓鱼吧.png" group-title="🏓体育频道",林家渔妹
 https://live.ottiptv.cc/douyu/9348805
 #EXTINF:-1 tvg-id="体育2台" tvg-name="体育2台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/ELTA体2.png" group-title="🏓体育频道",爱尔达体育2台(台)
@@ -438,8 +432,6 @@ http://58.37.200.11:5140/少儿频道/金色学堂?cors
 http://58.37.200.11:5140/少儿频道/卡酷少儿?cors
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金鹰卡通.png" group-title="🎭️动画频道",金鹰卡通
 http://58.37.200.11:5140/少儿频道/金鹰卡通?cors
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://www.xn--rgv465a.top/tvlogo/嘉佳卡通.png" group-title="🎭️动画频道",嘉佳卡通
-http://lsa.familyds.com:8188/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://www.xn--rgv465a.top/tvlogo/上海哈哈炫动.png" group-title="🎭️动画频道",哈哈炫动
 http://58.37.200.11:5140/少儿频道/哈哈炫动?cors
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://www.xn--rgv465a.top/tvlogo/动漫秀场.png" group-title="🎭️动画频道",动漫秀场
