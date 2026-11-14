@@ -4,8 +4,6 @@ http://221.7.49.226:50085/tsfile/live/0018_8.m3u8?key=txiptv
 http://58.210.97.102:1234/609158151
 http://47.103.64.145:8014/609158151
 http://82.157.33.51:3000/609158151
-http://27.156.100.165:10000/609158151
-http://27.156.100.165:10000/608807420
 http://114.230.61.74:9005/608807420
 http://116.233.9.39:18080/608807420
 http://42.240.142.36:1234/608807420
@@ -388,8 +386,6 @@ http://iptv.4666888.xyz/iptv2A.php?id=22
 http://iptv.4666888.xyz/iptv2A.php?id=32
 #EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV国语剧(港)
 http://iptv.4666888.xyz/iptv2A.php?id=34
-#EXTINF:-1 tvg-id="黄金华剧" tvg-name="黄金华剧" tvg-logo="https://www.xn--rgv465a.top/tvlogo/黄金华剧台.png" group-title="🐠影视频道",黄金华剧台(港)
-http://iptv.4666888.xyz/iptv2A.php?id=24
 #EXTINF:-1 tvg-id="金光布袋戏" tvg-name="金光布袋戏" tvg-logo="https://www.xn--rgv465a.top/tvlogo/金光布袋戏.png" group-title="🐠影视频道",金光布袋戏(台)
 http://iptv.4666888.xyz/iptv2A.php?id=38
 
