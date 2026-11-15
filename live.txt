@@ -218,10 +218,8 @@ http://58.37.200.11:5140/数字频道/女性时尚?cors
 
 
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港卫视.png" group-title="📡卫视频道",香港卫视
-http://114.230.61.74:9005/fengshows-chinese.flv
 http://zdxing.com:2222/relay/hkstv-live.m3u8
-http://114.230.61.74:9005/relay/hkstv-live.m3u8
-http://123.115.202.110:5001/relay/hkstv-live.m3u8
+http://zdxing.com:2222/relay/hkstv-live.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/广东卫视.png" group-title="📡卫视频道",广东卫视
 http://konicax.wicp.net:8686/卫视/广东卫视?cors
 http://58.37.200.11:5140/卫视频道/广东卫视?cors
@@ -328,11 +326,11 @@ http://58.37.200.11:5140/卫视频道/云南卫视?cors
 
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视香港.png" group-title="🌊海峡三地",凤凰中文(港)
-http://114.230.61.74:9005/fengshows-chinese.flv
+http://zdxing.com:2222/fengshows-chinese.flv
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰卫视资讯.png" group-title="🌊海峡三地",凤凰资讯(港)
-http://114.230.61.74:9005/fengshows-info.flv
+http://zdxing.com:2222/fengshows-info.flv
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://www.xn--rgv465a.top/tvlogo/凤凰香港频道.png" group-title="🌊海峡三地",凤凰香港(港)
-http://114.230.61.74:9005/fengshows-hongkong.flv
+http://zdxing.com:2222/fengshows-hongkong.flv
 #EXTINF:-1 tvg-id="环球电视" tvg-name="环球电视" tvg-logo="https://www.xn--rgv465a.top/tvlogo/香港环球.png" group-title="🌊海峡三地",环球电视(港)
 http://utv1.hqtvzb.com:9999/hls/world.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://www.xn--rgv465a.top/tvlogo/翡翠台.png" group-title="🌊海峡三地",TVB翡翠台(港)
