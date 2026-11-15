@@ -1,10 +1,10 @@
 {
-  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/8057468f8f30ba79c6dbbeb7fc1a052e.jpg;md5;b3fb6f369726e9c688dd5a7ad017d0dd",
+  "spider" : "https://xiuxiu-pro-new.meitudata.com/posters/9970bc4b67aa7d907871548db1c31bba.jpg;md5;fa1bcd5643872834ee03be5ba2f23ac7",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
   "sites": [
     {
       "key": "点我切源",
-      "name": "<11.07> 🎀🇨🇳立冬·愿你手边有热茶·心中有暖光🇨🇳🎀",
+      "name": "<11.15升级弹幕> 🎀🇨🇳手边有热茶·心中有暖光🇨🇳🎀",
       "type": 3,
       "api": "csp_DouDouGuard",
       "indexs": 1,
