@@ -65,7 +65,7 @@ http://47.103.64.145:8014/624878440
 http://82.157.33.51:3000/673168223
 http://47.103.64.145:8014/673168223
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌐央视咪咕",CCTV-16奥林匹克
-http://58.37.200.11:5140/CCTV/CCTV16?cors
+http://konicax.wicp.net:8686/央视/CCTV16?cors
 http://221.7.49.226:50085/tsfile/live/0016_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌐央视咪咕",CCTV-17农业农村
 http://82.157.33.51:3000/673168256
@@ -97,16 +97,16 @@ http://82.157.33.51:3000/609006446
 
 
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="🌏️央视数字",CCTV-1综合
-http://58.37.200.11:5140/CCTV/CCTV1?cors
+http://konicax.wicp.net:8686/央视/CCTV1/2?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.61:9884
 #EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="🌏️央视数字",CCTV-2财经
-http://58.37.200.11:5140/CCTV/CCTV2?cors
+http://konicax.wicp.net:8686/央视/CCTV2?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.174:9032
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV-3" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-3.png" group-title="🌏️央视数字",CCTV-3综艺
-http://58.37.200.11:5140/CCTV/CCTV3?cors
+http://konicax.wicp.net:8686/央视/CCTV3?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.34:9722
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-4.png" group-title="🌏️央视数字",CCTV-4中文国际
-http://58.37.200.11:5140/CCTV/CCTV4?cors
+http://konicax.wicp.net:8686/央视/CCTV4?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.206:9224
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV-4" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV4欧洲.png" group-title="🌏️央视数字",CCTV-4中文国际·欧洲
 http://114.250.20.79:4022/rtp/239.3.1.213:4220
@@ -115,46 +115,46 @@ http://n2.192372.xyz:8888/rtp/239.3.1.213:4220
 http://114.250.20.79:4022/rtp/239.3.1.214:4220
 http://n2.192372.xyz:8888/rtp/239.3.1.214:4220
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV-5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5.png" group-title="🌏️央视数字",CCTV-5体育
-http://58.37.200.11:5140/CCTV/CCTV5?cors
+http://konicax.wicp.net:8686/央视/CCTV5?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.35:9728
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV-5+" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-5+.png" group-title="🌏️央视数字",CCTV-5+体育赛事
-http://58.37.200.11:5140/CCTV/CCTV5+?cors
+http://konicax.wicp.net:8686/央视/CCTV5+?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.171:9014
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="🌏️央视数字",CCTV-6电影
-http://58.37.200.11:5140/CCTV/CCTV6?cors
+http://konicax.wicp.net:8686/央视/CCTV6?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.36:9734
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV-7" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-7.png" group-title="🌏️央视数字",CCTV-7国防军事
-http://58.37.200.11:5140/CCTV/CCTV7?cors
+http://konicax.wicp.net:8686/央视/CCTV7?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.175:9038
 #EXTINF:-1 tvg-id="CCTV-8" tvg-name="CCTV-8" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-8.png" group-title="🌏️央视数字",CCTV-8电视剧
-http://58.37.200.11:5140/CCTV/[131]CCTV-8?cors
+http://konicax.wicp.net:8686/央视/CCTV8?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.37:9740
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV-9" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-9.png" group-title="🌏️央视数字",CCTV-9纪录
-http://58.37.200.11:5140/CCTV/CCTV9?cors
+http://konicax.wicp.net:8686/央视/CCTV9?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.172:9020
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV-10" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-10.png" group-title="🌏️央视数字",CCTV-10科教
-http://58.37.200.11:5140/CCTV/CCTV10?cors
+http://konicax.wicp.net:8686/央视/CCTV10?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.176:9044
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV-11" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-11.png" group-title="🌏️央视数字",CCTV-11戏曲
-http://58.37.200.11:5140/CCTV/CCTV11?cors
+http://konicax.wicp.net:8686/央视/CCTV11?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.21:8120
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV-12" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-12.png" group-title="🌏️央视数字",CCTV-12社会与法
-http://58.37.200.11:5140/CCTV/CCTV12?cors
+http://konicax.wicp.net:8686/央视/CCTV12?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.177:9050
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="🌏️央视数字",CCTV-13新闻
-http://58.37.200.11:5140/CCTV/CCTV13?cors
+http://konicax.wicp.net:8686/央视/CCTV13?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.23:8132
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV-14" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-14.png" group-title="🌏️央视数字",CCTV-14少儿
-http://58.37.200.11:5140/CCTV/CCTV14?cors
+http://konicax.wicp.net:8686/央视/CCTV14?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.178:9056
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV-15" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-15.png" group-title="🌏️央视数字",CCTV-15音乐
-http://58.37.200.11:5140/CCTV/CCTV15?cors
+http://konicax.wicp.net:8686/央视/CCTV15?cors
 http://woc.iiiya.cn:18888/rtp/239.61.2.25:8144
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV-16" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-16.png" group-title="🌏️央视数字",CCTV-16奥林匹克
-http://58.37.200.11:5140/CCTV/CCTV16?cors
+http://konicax.wicp.net:8686/央视/CCTV16?cors
 http://n2.192372.xyz:8888/rtp/239.3.1.184:8001
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV-17" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-17.png" group-title="🌏️央视数字",CCTV-17农业农村
-http://58.37.200.11:5140/CCTV/CCTV17?cors
+http://konicax.wicp.net:8686/央视/CCTV17?cors
 http://woc.iiiya.cn:18888/rtp/239.61.3.9:9572
 
 
@@ -354,7 +354,7 @@ http://iptv.4666888.xyz/iptv2A.php?id=54
 http://iptv.4666888.xyz/iptv2A.php?id=13
 #EXTINF:-1 tvg-id="FOX live" tvg-name="FOX live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox News.png" group-title="🌊海峡三地",FOX live福克斯新闻(美)
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",MONDE Style法国国际(法)
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",T5 Style法国国际(法)
 http://iptv.4666888.xyz/iptv2A.php?id=39
 
 
@@ -397,7 +397,7 @@ http://180.107.19.127:8989/数字频道/睛彩竞技 (高清)?cors
 http://180.107.19.127:8989/数字频道/睛彩青少 (高清)?cors
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩篮球  HD.png" group-title="🏓体育频道",睛彩篮球
 http://180.107.19.127:8989/数字频道/睛彩篮球 (高清)?cors
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩广场舞  HD.png" group-title="🏓体育频道",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩舞" tvg-name="睛彩舞" tvg-logo="https://www.xn--rgv465a.top/tvlogo/睛彩广场舞  HD.png" group-title="🏓体育频道",睛彩广场舞
 http://180.107.19.127:8989/数字频道/睛彩广场舞 (高清)?cors
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://www.xn--rgv465a.top/tvlogo/五星体育.png" group-title="🏓体育频道",五星体育
 http://konicax.wicp.net:8686/上海/五星体育?cors
