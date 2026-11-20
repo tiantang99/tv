@@ -351,9 +351,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=15
 http://iptv.4666888.xyz/iptv2A.php?id=54
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://www.xn--rgv465a.top/tvlogo/中视菁采台.png" group-title="🌊海峡三地",中视菁采(台)
 http://iptv.4666888.xyz/iptv2A.php?id=13
-#EXTINF:-1 tvg-id="FOX live" tvg-name="FOX live" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox News.png" group-title="🌊海峡三地",FOX live福克斯新闻(美)
+#EXTINF:-1 tvg-id="FOX" tvg-name="FOX" tvg-logo="https://www.xn--rgv465a.top/tvlogo/Fox News.png" group-title="🌊海峡三地",FOX News美国新闻(美)
 http://iptv.4666888.xyz/iptv2A.php?id=46
-#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",T5 Style法国国际(法)
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/france24 1.png" group-title="🌊海峡三地",FRA News法国新闻(法)
+http://iptv.4666888.xyz/iptv2A.php?id=48
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CNA-NEWS.png" group-title="🌊海峡三地",CNA News新加坡新闻(新)
+http://iptv.4666888.xyz/iptv2A.php?id=44
+#EXTINF:-1 tvg-id="TV5" tvg-name="TV5" tvg-logo="https://www.xn--rgv465a.top/tvlogo/TV5MONDESTYLEHD.png" group-title="🌊海峡三地",T5 Style法国国际频道(法)
 http://iptv.4666888.xyz/iptv2A.php?id=39
 
 
@@ -376,6 +380,8 @@ http://58.210.97.102:1234/619495952
 http://58.210.97.102:1234/625703337
 #EXTINF:-1 tvg-id="经典电影" tvg-name="经典电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/IPTV经典电影.png" group-title="🐠影视频道",经典电影
 http://120.238.84.45:9901/tsfile/live/1040_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://www.xn--rgv465a.top/tvlogo/MEZZOLIVEHD.png" group-title="🐠影视频道",古典音乐剧
+http://iptv.4666888.xyz/iptv2A.php?id=47
 #EXTINF:-1 tvg-id="4K电影" tvg-name="4K电影" tvg-logo="https://www.xn--rgv465a.top/tvlogo/bestvqqdp.png" group-title="🐠影视频道",4K超清电影
 http://konicax.wicp.net:8686/BesTV/BesTV 4k电影?cors
 #EXTINF:-1 tvg-id="MYTV" tvg-name="MYTV" tvg-logo="https://www.xn--rgv465a.top/tvlogo/myTV SUPER.png" group-title="🐠影视频道",MYTV粤语剧1(港)
